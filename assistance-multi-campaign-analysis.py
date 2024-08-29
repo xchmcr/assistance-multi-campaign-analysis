@@ -27,21 +27,21 @@ def load_dataset3():
     df['Week Of'] = pd.to_datetime(df['Week Of'])
     return df
 
-# Function to create weekly aggregated data for dataset 1
-def create_weekly_data(df):
-    weekly_data = df.groupby('Week').agg({
+# Function to create weekly report for dataset 1
+def create_weekly_report(df):
+    weekly_report = df.groupby('Week').agg({
         'Spend': 'sum',
         'Leads (from CRM)': 'sum',
         'Ascend Application': 'sum',
         'Approved for Services': 'sum'
     }).reset_index()
     
-    weekly_data['CPL'] = weekly_data['Spend'] / weekly_data['Leads (from CRM)']
-    weekly_data['CPA Ascend App'] = weekly_data['Spend'] / weekly_data['Ascend Application']
-    weekly_data['CPA Approved'] = weekly_data['Spend'] / weekly_data['Approved for Services']
+    weekly_report['CPI'] = weekly_report['Spend'] / weekly_report['Leads (from CRM)']
+    weekly_report['CPA Ascend App'] = weekly_report['Spend'] / weekly_report['Ascend Application']
+    weekly_report['CPApproved'] = weekly_report['Spend'] / weekly_report['Approved for Services']
     
-    weekly_data.replace([float('inf'), -float('inf')], None, inplace=True)
-    return weekly_data
+    weekly_report.replace([float('inf'), -float('inf')], 'N/A', inplace=True)
+    return weekly_report
 
 # Function to create channel summary for dataset 1
 def create_channel_summary(df):
@@ -105,35 +105,20 @@ def main():
     st.subheader("Data Visualizations")
 
     if selected_dataset == "Dataset 1":
-        # Statistic labels
-        col1, col2, col3 = st.columns(3)
-        total_ascend = filtered_df['Ascend Application'].sum()
-        total_spend = filtered_df['Spend'].sum()
-        cpa_ascend = total_spend / total_ascend if total_ascend > 0 else 0
-        
-        total_approved = filtered_df['Approved for Services'].sum()
-        cpa_approved = total_spend / total_approved if total_approved > 0 else 0
-        
-        conversion_rate = total_approved / total_ascend if total_ascend > 0 else 0
-        
-        col1.metric("Ascend Apps", f"{total_ascend:.0f}", f"${cpa_ascend:.2f} per app")
-        col2.metric("Approved Apps", f"{total_approved:.0f}", f"${cpa_approved:.2f} per app")
-        col3.metric("Conversion Rate", f"{conversion_rate:.2%}")
+        # Weekly report
+        st.subheader("Weekly Report")
+        weekly_report = create_weekly_report(filtered_df)
+        st.write(weekly_report)
 
         # Line and Bar Combination Chart
-        weekly_data = create_weekly_data(filtered_df)
         fig = make_subplots(specs=[[{"secondary_y": True}]])
-        fig.add_trace(go.Bar(x=weekly_data['Week'], y=weekly_data['Spend'], name="Total Cost", marker_color='green'), secondary_y=False)
-        fig.add_trace(go.Scatter(x=weekly_data['Week'], y=weekly_data['CPL'], name="Cost per Lead", marker_color='blue'), secondary_y=True)
+        fig.add_trace(go.Bar(x=weekly_report['Week'], y=weekly_report['Spend'], name="Total Cost", marker_color='green'), secondary_y=False)
+        fig.add_trace(go.Scatter(x=weekly_report['Week'], y=weekly_report['CPI'], name="Cost per Lead", marker_color='blue'), secondary_y=True)
         fig.update_layout(title_text="Weekly Performance: Total Cost vs Cost per Lead")
         fig.update_xaxes(title_text="Week")
         fig.update_yaxes(title_text="Total Cost", secondary_y=False)
         fig.update_yaxes(title_text="Cost per Lead", secondary_y=True)
         st.plotly_chart(fig)
-
-        # Weekly report table
-        st.subheader("Weekly Report")
-        st.write(weekly_data)
 
         # Channel summary
         st.subheader("Channel Summary")
@@ -152,6 +137,11 @@ def main():
         media_buying_data['CPE'] = media_buying_data['Event value - GA4 (USD)'] / media_buying_data['Event count - GA4']
         st.write(media_buying_data)
 
+        # Add a useful chart (example: bar chart of sessions by source)
+        fig = px.bar(media_buying_data, x='Session source - GA4', y='Sessions - GA4, event based', 
+                     title='Sessions by Source')
+        st.plotly_chart(fig)
+
     else:  # Dataset 3
         # Region filter
         regions = filtered_df['Market'].unique()
@@ -164,26 +154,54 @@ def main():
         fig = px.bar(region_filtered_df, x='Week Of', y='$ SPENT', color='Market',
                      title='Cost Breakdown by Region Over Time',
                      labels={'$ SPENT': 'Spend', 'Week Of': 'Date'})
-        fig.update_layout(barmode='stack')
+        fig.update_layout(barmode='stack', xaxis_title="Date", yaxis_title="Spend")
         st.plotly_chart(fig)
 
         # Radio Station Performance Table
         st.subheader("Radio Station Performance")
+        
+        # Check available columns
+        available_columns = filtered_df.columns
+        st.write("Available columns:", available_columns)
+
+        # Define column mappings
+        column_mappings = {
+            'Station': 'Station',
+            'Spend': '$ SPENT',
+            'UNQ': 'UNQ >=' if 'UNQ >=' in available_columns else 'UNQ',
+            'Submitted Apps': 'Submitted Apps' if 'Submitted Apps' in available_columns else None,
+            'Approved Apps': 'Approved Apps' if 'Approved Apps' in available_columns else None
+        }
+
+        # Create the performance table
         station_performance = filtered_df.groupby('Station').agg({
-            '$ SPENT': 'sum',
-            'UNQ': 'sum',
-            'Submitted Apps': 'sum',
-            'Approved Apps': 'sum'
+            column_mappings['Spend']: 'sum',
+            column_mappings['UNQ']: 'sum'
         }).reset_index()
+
+        # Calculate metrics
+        station_performance['CPUC'] = station_performance[column_mappings['Spend']] / station_performance[column_mappings['UNQ']]
         
-        station_performance['CPUC'] = station_performance['$ SPENT'] / station_performance['UNQ']
-        station_performance['CPSubmitted'] = station_performance['$ SPENT'] / station_performance['Submitted Apps']
-        station_performance['CPApproved'] = station_performance['$ SPENT'] / station_performance['Approved Apps']
-        station_performance['CNV1%'] = station_performance['Submitted Apps'] / station_performance['UNQ'] * 100
-        station_performance['CNV2%'] = station_performance['Approved Apps'] / station_performance['UNQ'] * 100
+        if column_mappings['Submitted Apps']:
+            station_performance['Submitted Apps'] = filtered_df.groupby('Station')[column_mappings['Submitted Apps']].sum()
+            station_performance['CPSubmitted'] = station_performance[column_mappings['Spend']] / station_performance['Submitted Apps']
+            station_performance['CNV1%'] = station_performance['Submitted Apps'] / station_performance[column_mappings['UNQ']] * 100
         
-        station_performance = station_performance.rename(columns={'$ SPENT': 'Spend'})
+        if column_mappings['Approved Apps']:
+            station_performance['Approved Apps'] = filtered_df.groupby('Station')[column_mappings['Approved Apps']].sum()
+            station_performance['CPApproved'] = station_performance[column_mappings['Spend']] / station_performance['Approved Apps']
+            station_performance['CNV2%'] = station_performance['Approved Apps'] / station_performance[column_mappings['UNQ']] * 100
+
+        # Rename columns for display
+        station_performance = station_performance.rename(columns={
+            column_mappings['Spend']: 'Spend',
+            column_mappings['UNQ']: 'UNQ'
+        })
+
+        # Display the table
         st.write(station_performance)
+
+    # ... (rest of the code remains the same)
 
 if __name__ == "__main__":
     main()
