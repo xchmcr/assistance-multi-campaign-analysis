@@ -25,6 +25,10 @@ def load_dataset3():
     file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-radiodata.csv'
     df = pd.read_csv(file_path)
     df['Week Of'] = pd.to_datetime(df['Week Of'])
+    
+    # Convert '$ SPENT' to numeric, removing '$' and ',' characters
+    df['$ SPENT'] = df['$ SPENT'].replace('[\$,]', '', regex=True).astype(float)
+    
     return df
 
 # Function to create weekly report for dataset 1
@@ -160,48 +164,40 @@ def main():
         # Radio Station Performance Table
         st.subheader("Radio Station Performance")
         
-        # Check available columns
-        available_columns = filtered_df.columns
-        st.write("Available columns:", available_columns)
-
-        # Define column mappings
-        column_mappings = {
-            'Station': 'Station',
-            'Spend': '$ SPENT',
-            'UNQ': 'UNQ >=' if 'UNQ >=' in available_columns else 'UNQ',
-            'Submitted Apps': 'Submitted Apps' if 'Submitted Apps' in available_columns else None,
-            'Approved Apps': 'Approved Apps' if 'Approved Apps' in available_columns else None
-        }
-
-        # Create the performance table
+        # Aggregate data by 'Station'
         station_performance = filtered_df.groupby('Station').agg({
-            column_mappings['Spend']: 'sum',
-            column_mappings['UNQ']: 'sum'
+            'Ord Spots': 'sum',
+            'Spots Ran': 'sum',
+            'UNQ >= :01': 'sum',
+            '$ SPENT': 'sum'
         }).reset_index()
 
-        # Calculate metrics
-        station_performance['CPUC'] = station_performance[column_mappings['Spend']] / station_performance[column_mappings['UNQ']]
-        
-        if column_mappings['Submitted Apps']:
-            station_performance['Submitted Apps'] = filtered_df.groupby('Station')[column_mappings['Submitted Apps']].sum()
-            station_performance['CPSubmitted'] = station_performance[column_mappings['Spend']] / station_performance['Submitted Apps']
-            station_performance['CNV1%'] = station_performance['Submitted Apps'] / station_performance[column_mappings['UNQ']] * 100
-        
-        if column_mappings['Approved Apps']:
-            station_performance['Approved Apps'] = filtered_df.groupby('Station')[column_mappings['Approved Apps']].sum()
-            station_performance['CPApproved'] = station_performance[column_mappings['Spend']] / station_performance['Approved Apps']
-            station_performance['CNV2%'] = station_performance['Approved Apps'] / station_performance[column_mappings['UNQ']] * 100
+        # Calculate derived metrics
+        station_performance['CPUC'] = station_performance['$ SPENT'] / station_performance['UNQ >= :01']
 
         # Rename columns for display
         station_performance = station_performance.rename(columns={
-            column_mappings['Spend']: 'Spend',
-            column_mappings['UNQ']: 'UNQ'
+            'Station': 'Station',
+            '$ SPENT': 'Spend',
+            'UNQ >= :01': 'UNQ',
+            'Ord Spots': 'Ordered Spots',
+            'Spots Ran': 'Spots Ran'
         })
 
-        # Display the table
-        st.write(station_performance)
+        # Select and order columns
+        columns_to_display = ['Station', 'Spend', 'UNQ', 'Ordered Spots', 'Spots Ran', 'CPUC']
+        station_performance = station_performance[columns_to_display]
 
-    # ... (rest of the code remains the same)
+        # Format columns
+        station_performance['Spend'] = station_performance['Spend'].apply(lambda x: f'${x:,.2f}')
+        station_performance['CPUC'] = station_performance['CPUC'].apply(lambda x: f'${x:,.2f}')
+
+        # Display the table
+        st.dataframe(station_performance.style.format({
+            'UNQ': '{:,.0f}',
+            'Ordered Spots': '{:,.0f}',
+            'Spots Ran': '{:,.0f}'
+        }))
 
 if __name__ == "__main__":
     main()
