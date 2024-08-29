@@ -25,10 +25,15 @@ def load_dataset3():
     file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-radiodata.csv'
     df = pd.read_csv(file_path)
     df['Week Of'] = pd.to_datetime(df['Week Of'])
-    
-    # Convert '$ SPENT' to numeric, removing '$' and ',' characters
     df['$ SPENT'] = df['$ SPENT'].replace('[\$,]', '', regex=True).astype(float)
-    
+    return df
+
+# Function to load dataset 4
+def load_dataset4():
+    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-crm_analysis.csv'
+    df = pd.read_csv(file_path)
+    df['1/1/22'] = pd.to_datetime(df['1/1/22'])
+    df['Age'] = pd.to_numeric(df['Age'], errors='coerce')
     return df
 
 # Function to create weekly report for dataset 1
@@ -68,6 +73,48 @@ def create_channel_summary(df):
     channel_summary.replace([float('inf'), -float('inf')], None, inplace=True)
     return channel_summary
 
+# Function to create CRM visualizations
+def create_crm_visualizations(df):
+    # 1. Disposition Distribution
+    disposition_counts = df['Disposition'].value_counts()
+    fig1 = px.pie(values=disposition_counts.values, names=disposition_counts.index, title='Disposition Distribution')
+    st.plotly_chart(fig1)
+
+    # 2. Medicaid Status Distribution
+    medicaid_counts = df['Medicaid Status'].value_counts()
+    fig2 = px.pie(values=medicaid_counts.values, names=medicaid_counts.index, title='Medicaid Status Distribution')
+    st.plotly_chart(fig2)
+
+    # 3. Age Distribution
+    fig3 = px.histogram(df, x='Age', title='Age Distribution')
+    st.plotly_chart(fig3)
+
+    # 4. Contact Rate
+    contact_counts = df['Contact been made'].value_counts()
+    fig4 = px.pie(values=contact_counts.values, names=contact_counts.index, title='Contact Rate')
+    st.plotly_chart(fig4)
+
+    # 5. Channel Distribution
+    channel_counts = df['Channel'].value_counts()
+    fig5 = px.bar(x=channel_counts.index, y=channel_counts.values, title='Channel Distribution')
+    st.plotly_chart(fig5)
+
+    # 6. Source Distribution
+    source_counts = df['Source'].value_counts()
+    fig6 = px.bar(x=source_counts.index, y=source_counts.values, title='Source Distribution')
+    st.plotly_chart(fig6)
+
+    # 7. Timeline of ElderCare Submissions
+    df['ElderCare Submission Date'] = pd.to_datetime(df['ElderCare Submission Date'])
+    submission_timeline = df.groupby('ElderCare Submission Date').size().reset_index(name='count')
+    fig7 = px.line(submission_timeline, x='ElderCare Submission Date', y='count', title='Timeline of ElderCare Submissions')
+    st.plotly_chart(fig7)
+
+    # 8. Follow-up Rate
+    followup_counts = df['15 Day follow-up after Submission'].value_counts()
+    fig8 = px.pie(values=followup_counts.values, names=followup_counts.index, title='15-Day Follow-up Rate')
+    st.plotly_chart(fig8)
+
 # Streamlit app
 def main():
     st.title("Advertising Data Analysis for Elderly Care Services")
@@ -76,10 +123,11 @@ def main():
     df1 = load_dataset1()
     df2 = load_dataset2()
     df3 = load_dataset3()
+    df4 = load_dataset4()
 
     # Sidebar for user input
     st.sidebar.header("User Input")
-    selected_dataset = st.sidebar.selectbox("Select Dataset", ["Dataset 1", "Dataset 2", "Dataset 3"])
+    selected_dataset = st.sidebar.selectbox("Select Dataset", ["Dataset 1", "Dataset 2", "Dataset 3", "Dataset 4"])
     
     if selected_dataset == "Dataset 1":
         df = df1
@@ -87,9 +135,12 @@ def main():
     elif selected_dataset == "Dataset 2":
         df = df2
         date_column = 'Date'
-    else:
+    elif selected_dataset == "Dataset 3":
         df = df3
         date_column = 'Week Of'
+    else:  # Dataset 4
+        df = df4
+        date_column = '1/1/22'
 
     # Date range selection
     min_date = df[date_column].min().date()
@@ -146,7 +197,7 @@ def main():
                      title='Sessions by Source')
         st.plotly_chart(fig)
 
-    else:  # Dataset 3
+    elif selected_dataset == "Dataset 3":
         # Region filter
         regions = filtered_df['Market'].unique()
         selected_regions = st.multiselect('Select Regions', regions, default=regions)
@@ -198,6 +249,11 @@ def main():
             'Ordered Spots': '{:,.0f}',
             'Spots Ran': '{:,.0f}'
         }))
+
+    else:  # Dataset 4
+        st.subheader("CRM Analysis Data")
+        st.write("This dataset contains CRM analysis information.")
+        create_crm_visualizations(filtered_df)
 
 if __name__ == "__main__":
     main()
