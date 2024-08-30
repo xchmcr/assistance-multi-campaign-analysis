@@ -96,7 +96,81 @@ def create_crm_visualizations(df):
     fig6 = px.bar(x=source_counts.index, y=source_counts.values, title='Source Distribution')
     st.plotly_chart(fig6)
 
+# Function to display conversation types and intentions
+def display_conversation_types():
+    # Define conversation types and their intentions
+    conversation_data = {
+        'Employment Inquiries': [
+            "Looking for employment, Spanish speaking, connecting with Stephania.",
+            "Wants to apply for homecare position.",
+            "Looking for employment in Bridgeport area.",
+            "Looking for employment, lives in Norwalk, CT.",
+            "Looking for live-in case, lives in Hartford, CT.",
+            "Looking for employment.",
+            "Looking for employment in Alabama.",
+            "Wants a job.",
+            "Looking for AFL in Mass.",
+            "Looking for work but located in Alabama."
+        ],
+        'Medical and Care-Related Inquiries': [
+            "Wanted to know where we get our medical supplies from.",
+            "Wanted to get paid for taking care of a sister who is only 24 and had surgery.",
+            "MIL is 86 years old, working on changing the address.",
+            "Son is autistic, 22 years old, has Medicaid.",
+            "Mother on Medicaid, interested in the program, calling back for Med ID.",
+            "Wants husband to be the caregiver, but it's against program policy.",
+            "Wife's grandmother lives together, over 65, not on Medicaid, over income.",
+            "Son takes care of him, only works PT, 62 years old, on Medicare.",
+            "Client is only 55, needs info on PCA waiver.",
+            "Mom lives in Virginia, has stage 4 cancer.",
+            "Mom on Medicaid, family not sure if she wants to do it for fear of losing Husky insurance.",
+            "Registered nurse calling on behalf of his patient, way over income but interested in talking about private pay."
+        ],
+        'Incomplete or Failed Communications': [
+            "Call could not be completed - error message.",
+            "No answer, left voicemail.",
+            "Sent an email - no answer when called.",
+            "Contact number provided has a digit missing.",
+            "Sent an email - unable to call the number.",
+            "Vmail, left voice and text message.",
+            "Missed call, left voicemail.",
+            "Called back, left message.",
+            "No answer, no voicemail, text sent, no response.",
+            "Phone number not valid."
+        ],
+        'Spam or Wrong Numbers': [
+            "As contacted individual on 8/26 but the number provided is of YMCA.",
+            "This is spam, I called and it said to block the number.",
+            "Wrong number.",
+            "Phone number not valid.",
+            "Wrong contact information."
+        ],
+        'Inquiries about Program Eligibility': [
+            "Wanted to check if she could get services without being on Medicaid.",
+            "Grandparents in FL, wants to move them here, not sure if they are on Medicaid.",
+            "Wanted to know how much we pay.",
+            "House $250,000, $2700 total income, suggested to fill out Medicaid application.",
+            "Over asset, mom owns home, also resides in Mass.",
+            "Caller wanted her friend to take care but they don’t live together.",
+            "Over income, informed to apply for Medicaid and get a spend-down amount.",
+            "Son takes care of him, only works PT, 62 years old, on Medicare.",
+            "Wanted to take care of his son but the son is only 30 years old."
+        ]
+    }
 
+    # Display as text
+    st.subheader("Conversation Types and Intentions")
+    for category, intentions in conversation_data.items():
+        st.write(f"**{category}**")
+        for intention in intentions:
+            st.write(f"- {intention}")
+        st.write("")
+
+    # Optionally, display as a chart
+    chart_data = {category: len(intentions) for category, intentions in conversation_data.items()}
+    chart_df = pd.DataFrame(list(chart_data.items()), columns=['Conversation Type', 'Count'])
+    fig = px.bar(chart_df, x='Conversation Type', y='Count', title="Count of Inquiries by Conversation Type")
+    st.plotly_chart(fig)
 
 # Streamlit app
 def main():
@@ -141,7 +215,7 @@ def main():
 
     # Create visualizations
     st.subheader("Data Visualizations")
-
+    
     if selected_dataset == "Dataset 1":
         # Weekly report
         st.subheader("Weekly Report")
@@ -175,9 +249,8 @@ def main():
         media_buying_data['CPE'] = media_buying_data['Event value - GA4 (USD)'] / media_buying_data['Event count - GA4']
         st.write(media_buying_data)
 
-        # Add a useful chart (example: bar chart of sessions by source)
-        fig = px.bar(media_buying_data, x='Session source - GA4', y='Sessions - GA4, event based', 
-                     title='Sessions by Source')
+        # Bar chart of sessions by source
+        fig = px.bar(media_buying_data, x='Session source - GA4', y='Sessions - GA4, event based', title='Sessions by Source')
         st.plotly_chart(fig)
 
     elif selected_dataset == "Dataset 3":
@@ -189,27 +262,20 @@ def main():
         region_filtered_df = filtered_df[filtered_df['Market'].isin(selected_regions)]
 
         # Stacked Bar Chart for Breakdown Over Time
-        fig = px.bar(region_filtered_df, x='Week Of', y='$ SPENT', color='Market',
-                     title='Cost Breakdown by Region Over Time',
-                     labels={'$ SPENT': 'Spend', 'Week Of': 'Date'})
+        fig = px.bar(region_filtered_df, x='Week Of', y='$ SPENT', color='Market', title='Cost Breakdown by Region Over Time', labels={'$ SPENT': 'Spend', 'Week Of': 'Date'})
         fig.update_layout(barmode='stack', xaxis_title="Date", yaxis_title="Spend")
         st.plotly_chart(fig)
 
         # Radio Station Performance Table
         st.subheader("Radio Station Performance")
-        
-        # Aggregate data by 'Station'
-        station_performance = filtered_df.groupby('Station').agg({
+        station_performance = region_filtered_df.groupby('Station').agg({
             'Ord Spots': 'sum',
             'Spots Ran': 'sum',
             'UNQ >= :01': 'sum',
             '$ SPENT': 'sum'
         }).reset_index()
 
-        # Calculate derived metrics
         station_performance['CPUC'] = station_performance['$ SPENT'] / station_performance['UNQ >= :01']
-
-        # Rename columns for display
         station_performance = station_performance.rename(columns={
             'Station': 'Station',
             '$ SPENT': 'Spend',
@@ -217,16 +283,12 @@ def main():
             'Ord Spots': 'Ordered Spots',
             'Spots Ran': 'Spots Ran'
         })
-
-        # Select and order columns
         columns_to_display = ['Station', 'Spend', 'UNQ', 'Ordered Spots', 'Spots Ran', 'CPUC']
         station_performance = station_performance[columns_to_display]
 
-        # Format columns
         station_performance['Spend'] = station_performance['Spend'].apply(lambda x: f'${x:,.2f}')
         station_performance['CPUC'] = station_performance['CPUC'].apply(lambda x: f'${x:,.2f}')
 
-        # Display the table
         st.dataframe(station_performance.style.format({
             'UNQ': '{:,.0f}',
             'Ordered Spots': '{:,.0f}',
@@ -235,8 +297,9 @@ def main():
 
     else:  # Dataset 4
         st.subheader("CRM Analysis Data")
-        st.write("This dataset contains CRM analysis information.")
         create_crm_visualizations(filtered_df)
+        display_conversation_types()
 
 if __name__ == "__main__":
     main()
+
