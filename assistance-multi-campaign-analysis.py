@@ -75,10 +75,6 @@ def create_channel_summary(df):
 
 # Function to create CRM visualizations
 def create_crm_visualizations(df):
-    # 1. Disposition Distribution
-    disposition_counts = df['Disposition'].value_counts()
-    fig1 = px.pie(values=disposition_counts.values, names=disposition_counts.index, title='Disposition Distribution')
-    st.plotly_chart(fig1)
 
     # 2. Medicaid Status Distribution
     medicaid_counts = df['Medicaid Status'].value_counts()
@@ -89,10 +85,6 @@ def create_crm_visualizations(df):
     fig3 = px.histogram(df, x='Age', title='Age Distribution')
     st.plotly_chart(fig3)
 
-    # 4. Contact Rate
-    contact_counts = df['Contact been made'].value_counts()
-    fig4 = px.pie(values=contact_counts.values, names=contact_counts.index, title='Contact Rate')
-    st.plotly_chart(fig4)
 
     # 5. Channel Distribution
     channel_counts = df['Channel'].value_counts()
@@ -104,16 +96,7 @@ def create_crm_visualizations(df):
     fig6 = px.bar(x=source_counts.index, y=source_counts.values, title='Source Distribution')
     st.plotly_chart(fig6)
 
-    # 7. Timeline of ElderCare Submissions
-    df['ElderCare Submission Date'] = pd.to_datetime(df['ElderCare Submission Date'])
-    submission_timeline = df.groupby('ElderCare Submission Date').size().reset_index(name='count')
-    fig7 = px.line(submission_timeline, x='ElderCare Submission Date', y='count', title='Timeline of ElderCare Submissions')
-    st.plotly_chart(fig7)
 
-    # 8. Follow-up Rate
-    followup_counts = df['15 Day follow-up after Submission'].value_counts()
-    fig8 = px.pie(values=followup_counts.values, names=followup_counts.index, title='15-Day Follow-up Rate')
-    st.plotly_chart(fig8)
 
 # Streamlit app
 def main():
