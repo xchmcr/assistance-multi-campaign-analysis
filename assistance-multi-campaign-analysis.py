@@ -5,36 +5,33 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime
 
-# Function to load and preprocess dataset 1
 def load_dataset1():
-    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis/workingbranch/assistance-multi-campaign-analysis-repo/sample_data-data.csv'
+    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis-repo/workingbranch/sample_data-data.csv'
     df = pd.read_csv(file_url)
     df['Spend'] = df['Spend'].replace('[\$,]', '', regex=True).astype(float)
     df['Week'] = pd.to_datetime(df['Week'])
     return df
 
-# Function to load dataset 2
 def load_dataset2():
-    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis/workingbranch/assistance-multi-campaign-analysis-repo/sample_data-gadata.csv'
+    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis-repo/workingbranch/sample_data-gadata.csv'
     df = pd.read_csv(file_url)
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 
-# Function to load dataset 3
 def load_dataset3():
-    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis/workingbranch/assistance-multi-campaign-analysis-repo/sample_data-radiodata.csv'
+    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis-repo/workingbranch/sample_data-radiodata.csv'
     df = pd.read_csv(file_url)
     df['Week Of'] = pd.to_datetime(df['Week Of'])
     df['$ SPENT'] = df['$ SPENT'].replace('[\$,]', '', regex=True).astype(float)
     return df
 
-# Function to load dataset 4
 def load_dataset4():
-    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis/workingbranch/assistance-multi-campaign-analysis-repo/sample_data-crm_analysis.csv'
+    file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis-repo/workingbranch/sample_data-crm_analysis.csv'
     df = pd.read_csv(file_url)
     df['1/1/22'] = pd.to_datetime(df['1/1/22'])
     df['Age'] = pd.to_numeric(df['Age'], errors='coerce')
     return df
+
 
 # Function to create weekly report for dataset 1
 def create_weekly_report(df):
