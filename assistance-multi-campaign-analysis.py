@@ -167,7 +167,8 @@ def display_conversation_types():
 
 # Streamlit app
 def main():
-    st.title("Advertising Data Analysis for Care Services campagin")
+    st.title("Advertising Data Analysis for Care Services Campaign")
+
 
     # Load datasets
     df1 = load_dataset1()
