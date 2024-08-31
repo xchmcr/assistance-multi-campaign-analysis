@@ -7,7 +7,7 @@ from datetime import datetime
 
 # Function to load and preprocess dataset 1
 def load_dataset1():
-    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-data.csv'
+    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\assistance-multi-campaign-analysis-repo\sample_data-data.csv'
     df = pd.read_csv(file_path)
     df['Spend'] = df['Spend'].replace('[\$,]', '', regex=True).astype(float)
     df['Week'] = pd.to_datetime(df['Week'])
@@ -15,14 +15,14 @@ def load_dataset1():
 
 # Function to load dataset 2
 def load_dataset2():
-    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-gadata.csv'
+    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\assistance-multi-campaign-analysis-repo\sample_data-gadata.csv'
     df = pd.read_csv(file_path)
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 
 # Function to load dataset 3
 def load_dataset3():
-    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-radiodata.csv'
+    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\assistance-multi-campaign-analysis-repo\sample_data-radiodata.csv'
     df = pd.read_csv(file_path)
     df['Week Of'] = pd.to_datetime(df['Week Of'])
     df['$ SPENT'] = df['$ SPENT'].replace('[\$,]', '', regex=True).astype(float)
@@ -30,7 +30,7 @@ def load_dataset3():
 
 # Function to load dataset 4
 def load_dataset4():
-    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\sample_data-crm_analysis.csv'
+    file_path = r'C:\Users\Migue\assistance-multi-campaign-analysis\assistance-multi-campaign-analysis-repo\sample_data-crm_analysis.csv'
     df = pd.read_csv(file_path)
     df['1/1/22'] = pd.to_datetime(df['1/1/22'])
     df['Age'] = pd.to_numeric(df['Age'], errors='coerce')
@@ -174,7 +174,7 @@ def display_conversation_types():
 
 # Streamlit app
 def main():
-    st.title("Advertising Data Analysis for Elderly Care Services")
+    st.title("Advertising Data Analysis for Care Services campagin")
 
     # Load datasets
     df1 = load_dataset1()
