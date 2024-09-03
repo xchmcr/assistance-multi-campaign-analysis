@@ -173,7 +173,6 @@ def display_conversation_types():
 def main():
     st.title("Advertising Data Analysis for Care Services Campaign")
 
-
     # Load datasets
     df1 = load_dataset1()
     df2 = load_dataset2()
@@ -182,26 +181,32 @@ def main():
 
     # Sidebar for user input
     st.sidebar.header("User Input")
-    selected_dataset = st.sidebar.selectbox("Select Dataset", ["Dataset 1", "Dataset 2", "Dataset 3", "Dataset 4"])
+    selected_dataset = st.sidebar.selectbox("Select Dataset", ["Data", "GA data", "Radio data", "CRM data"])
     
-    if selected_dataset == "Dataset 1":
+    if selected_dataset == "Data":
         df = df1
         date_column = 'Week'
-    elif selected_dataset == "Dataset 2":
+    elif selected_dataset == "GA data":
         df = df2
         date_column = 'Date'
-    elif selected_dataset == "Dataset 3":
+    elif selected_dataset == "Radio data":
         df = df3
         date_column = 'Week Of'
-    else:  # Dataset 4
+    else:  # CRM data
         df = df4
         date_column = '1/1/22'
 
+    # Display dataset title and date range selection
+    st.header(selected_dataset)
+    
     # Date range selection
     min_date = df[date_column].min().date()
     max_date = df[date_column].max().date()
-    start_date = st.sidebar.date_input("Start Date", min_date, min_value=min_date, max_value=max_date)
-    end_date = st.sidebar.date_input("End Date", max_date, min_value=min_date, max_value=max_date)
+    col1, col2 = st.columns(2)
+    with col1:
+        start_date = st.date_input("Start Date", min_date, min_value=min_date, max_value=max_date)
+    with col2:
+        end_date = st.date_input("End Date", max_date, min_value=min_date, max_value=max_date)
 
     # Filter data based on date range
     mask = (df[date_column].dt.date >= start_date) & (df[date_column].dt.date <= end_date)
@@ -214,7 +219,7 @@ def main():
     # Create visualizations
     st.subheader("Data Visualizations")
     
-    if selected_dataset == "Dataset 1":
+    if selected_dataset == "Data":
         # Weekly report
         st.subheader("Weekly Report")
         weekly_report = create_weekly_report(filtered_df)
@@ -235,7 +240,7 @@ def main():
         channel_summary = create_channel_summary(filtered_df)
         st.write(channel_summary)
 
-    elif selected_dataset == "Dataset 2":
+    elif selected_dataset == "GA data":
         # Table Visualization for Media Buying Data
         st.subheader("Media Buying Data Analysis")
         media_buying_data = filtered_df.groupby('Session source - GA4').agg({
@@ -251,7 +256,7 @@ def main():
         fig = px.bar(media_buying_data, x='Session source - GA4', y='Sessions - GA4, event based', title='Sessions by Source')
         st.plotly_chart(fig)
 
-    elif selected_dataset == "Dataset 3":
+    elif selected_dataset == "Radio data":
         # Region filter
         regions = filtered_df['Market'].unique()
         selected_regions = st.multiselect('Select Regions', regions, default=regions)
@@ -293,11 +298,13 @@ def main():
             'Spots Ran': '{:,.0f}'
         }))
 
-    else:  # Dataset 4
+    else:  # CRM data
         st.subheader("CRM Analysis Data")
         create_crm_visualizations(filtered_df)
+        
+        # Display conversation types and intentions
+        st.subheader("Conversation Types and Intentions")
         display_conversation_types()
 
 if __name__ == "__main__":
     main()
-
