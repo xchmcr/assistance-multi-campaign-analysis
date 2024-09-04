@@ -155,6 +155,13 @@ def display_conversation_types():
         ]
     }
 
+    # Display the chart first
+    chart_data = {category: len(intentions) for category, intentions in conversation_data.items()}
+    chart_df = pd.DataFrame(list(chart_data.items()), columns=['Conversation Type', 'Count'])
+    fig = px.bar(chart_df, x='Conversation Type', y='Count', title="Count of Inquiries by Conversation Type")
+    st.plotly_chart(fig)
+    
+
     # Display as text
     st.subheader("Conversation Types and Intentions")
     for category, intentions in conversation_data.items():
@@ -162,12 +169,6 @@ def display_conversation_types():
         for intention in intentions:
             st.write(f"- {intention}")
         st.write("")
-
-    # Optionally, display as a chart
-    chart_data = {category: len(intentions) for category, intentions in conversation_data.items()}
-    chart_df = pd.DataFrame(list(chart_data.items()), columns=['Conversation Type', 'Count'])
-    fig = px.bar(chart_df, x='Conversation Type', y='Count', title="Count of Inquiries by Conversation Type")
-    st.plotly_chart(fig)
 
 # Streamlit app
 def main():
@@ -181,7 +182,7 @@ def main():
 
     # Sidebar for user input
     st.sidebar.header("User Input")
-    selected_dataset = st.sidebar.selectbox("Select Dataset", ["Data", "GA data", "Radio data", "CRM data"])
+    selected_dataset = st.sidebar.radio("Select Dataset", ["Data", "GA data", "Radio data", "CRM data"])
     
     if selected_dataset == "Data":
         df = df1

@@ -31,15 +31,15 @@ print(df_cleaned.columns)
 
 # Define features and target variable
 features = [
-    "Session source - GA4", 
-    "Session medium - GA4", 
-    "Session campaign - GA4", 
-    "Event name - GA4", 
-    "Traffic source", 
-    "Paid / Organic"
+  "Session source - GA4", 
+  "Session medium - GA4", 
+  "Session campaign - GA4", 
+  "Event name - GA4", 
+  "Traffic source", 
+  "Paid / Organic"
 ]
 X = df_cleaned[features]
-y = df_cleaned['Event count - GA4']  # Target
+y = df_cleaned['Event count - GA4'] # Target
 
 # One-hot encode categorical features
 X_encoded = pd.get_dummies(X, drop_first=True)
@@ -56,7 +56,7 @@ X_poly = poly.fit_transform(X_scaled)
 r2_scorer = make_scorer(r2_score)
 
 # Cross-validation with polynomial features and Ridge regression
-alpha_value = 10  # Using a higher alpha value for stronger regularization
+alpha_value = 10 # Using a higher alpha value for stronger regularization
 model = Ridge(alpha=alpha_value)
 scores = cross_val_score(model, X_poly, y, cv=3, scoring=r2_scorer)
 average_r2 = np.mean(scores)
