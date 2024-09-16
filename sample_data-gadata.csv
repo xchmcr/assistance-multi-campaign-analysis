@@ -1,0 +1,1999 @@
+Date,Session source - GA4,Session medium - GA4,Session campaign - GA4,Event name - GA4,Traffic source,Paid / Organic,"Sessions - GA4, event based",Event count - GA4,Event value - GA4 (USD),Week of
+2024-05-31,tagassistant.google.com,referral,(referral),first_visit,Google,Organic,,1,0,5/27/24
+2024-05-31,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,5/27/24
+2024-05-31,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,5/27/24
+2024-05-31,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,1,0,5/27/24
+2024-06-03,tagassistant.google.com,referral,(referral),click,Google,Organic,,3,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),click_to_call_website,Google,Organic,,2,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),form_start,Google,Organic,,3,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),form_submission,Google,Organic,,2,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,7,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,1,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,6/3/24
+2024-06-03,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,5,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,6/3/24
+2024-06-04,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,5,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,4,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,4,0,6/3/24
+2024-06-04,(direct),(none),(direct),page_view,Direct,Organic,,1,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,8,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,6/3/24
+2024-06-04,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,5,5,0,6/3/24
+2024-06-04,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,4,0,6/3/24
+2024-06-05,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,6/3/24
+2024-06-05,google,organic,(organic),first_visit,Google,Organic,,1,0,6/3/24
+2024-06-05,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,6/3/24
+2024-06-05,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,6/3/24
+2024-06-05,google,organic,(organic),session_start,Google,Organic,1,1,0,6/3/24
+2024-06-05,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,6/3/24
+2024-06-06,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,6/3/24
+2024-06-06,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,6/3/24
+2024-06-06,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,6/3/24
+2024-06-07,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,7,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,6/3/24
+2024-06-07,(direct),(none),(direct),page_view,Direct,Organic,,1,0,6/3/24
+2024-06-07,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,7,0,6/3/24
+2024-06-07,(direct),(none),(direct),scroll,Direct,Organic,,1,0,6/3/24
+2024-06-07,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,1,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,4,0,6/3/24
+2024-06-07,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,6/3/24
+2024-06-07,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,8,8,0,6/3/24
+2024-06-07,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,6/3/24
+2024-06-07,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,6,0,6/3/24
+2024-06-08,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,6/3/24
+2024-06-08,google,organic,(organic),first_visit,Google,Organic,,1,0,6/3/24
+2024-06-08,google,organic,(organic),session_start,Google,Organic,1,1,0,6/3/24
+2024-06-10,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,6/10/24
+2024-06-10,google,organic,(organic),first_visit,Google,Organic,,1,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,15,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,5,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,5,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,20,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,6,0,6/10/24
+2024-06-10,google,organic,(organic),session_start,Google,Organic,1,1,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,15,15,0,6/10/24
+2024-06-10,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,13,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,21,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,13,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,7,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,36,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,12,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,24,24,0,6/10/24
+2024-06-11,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,20,0,6/10/24
+2024-06-12,(direct),(none),(direct),click,Direct,Organic,,2,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,click,Google,Paid,,2,0,6/10/24
+2024-06-12,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,6/10/24
+2024-06-12,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,6/10/24
+2024-06-12,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,6/10/24
+2024-06-12,google,organic,(organic),first_visit,Google,Organic,,1,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,17,0,6/10/24
+2024-06-12,(direct),(none),(direct),form_start,Direct,Organic,,2,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,6,0,6/10/24
+2024-06-12,(direct),(none),(direct),form_submission,Direct,Organic,,1,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,3,0,6/10/24
+2024-06-12,(direct),(none),(direct),page_view,Direct,Organic,,8,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,29,0,6/10/24
+2024-06-12,(direct),(none),(direct),scroll,Direct,Organic,,3,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,10,0,6/10/24
+2024-06-12,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,6/10/24
+2024-06-12,google,organic,(organic),session_start,Google,Organic,1,1,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,18,18,0,6/10/24
+2024-06-12,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,6/10/24
+2024-06-12,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,14,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,17,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,16,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,8,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,29,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,6,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,20,20,0,6/10/24
+2024-06-13,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,15,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,9,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,6,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,3,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,24,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,6,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,10,10,0,6/10/24
+2024-06-14,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,6,0,6/10/24
+2024-06-15,google,cpc,(not set),click_to_call_website,Google,Paid,,1,0,6/10/24
+2024-06-15,google,cpc,(not set),first_visit,Google,Paid,,1,0,6/10/24
+2024-06-15,google,cpc,(not set),session_start,Google,Paid,1,1,0,6/10/24
+2024-06-17,(direct),(none),(direct),click,Direct,Organic,,1,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,6/17/24
+2024-06-17,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,6/17/24
+2024-06-17,google,organic,(organic),first_visit,Google,Organic,,1,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,10,0,6/17/24
+2024-06-17,(direct),(none),(direct),form_start,Direct,Organic,,1,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,4,0,6/17/24
+2024-06-17,(direct),(none),(direct),form_submission,Direct,Organic,,2,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,4,0,6/17/24
+2024-06-17,(direct),(none),(direct),page_view,Direct,Organic,,7,0,6/17/24
+2024-06-17,google,organic,(organic),page_view,Google,Organic,,1,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,11,0,6/17/24
+2024-06-17,(direct),(none),(direct),scroll,Direct,Organic,,2,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,6/17/24
+2024-06-17,(direct),(none),(direct),session_start,Direct,Organic,3,3,0,6/17/24
+2024-06-17,google,organic,(organic),session_start,Google,Organic,1,1,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,11,11,0,6/17/24
+2024-06-17,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,6/17/24
+2024-06-17,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,6,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,click,Google,Paid,,3,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,click_to_call_website,Google,Paid,,2,0,6/17/24
+2024-06-18,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,6/17/24
+2024-06-18,google,cpc,(not set),first_visit,Google,Paid,,3,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,10,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,15,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,5,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,form_start,Google,Paid,,6,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,2,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,3,0,6/17/24
+2024-06-18,(direct),(none),(direct),page_view,Direct,Organic,,19,0,6/17/24
+2024-06-18,google,cpc,(not set),page_view,Google,Paid,,3,0,6/17/24
+2024-06-18,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,19,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,page_view,Google,Paid,,15,0,6/17/24
+2024-06-18,(direct),(none),(direct),scroll,Direct,Organic,,1,0,6/17/24
+2024-06-18,google,cpc,(not set),scroll,Google,Paid,,1,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,9,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,6/17/24
+2024-06-18,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,6/17/24
+2024-06-18,google,cpc,(not set),session_start,Google,Paid,3,3,0,6/17/24
+2024-06-18,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,11,11,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,session_start,Google,Paid,15,15,0,6/17/24
+2024-06-18,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,8,0,6/17/24
+2024-06-18,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,6/17/24
+2024-06-19,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,6,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,7,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,6/17/24
+2024-06-19,(direct),(none),(direct),page_view,Direct,Organic,,3,0,6/17/24
+2024-06-19,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,7,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Search,page_view,Google,Paid,,7,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,4,0,6/17/24
+2024-06-19,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,6/17/24
+2024-06-19,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,7,7,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Search,session_start,Google,Paid,7,7,0,6/17/24
+2024-06-19,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,6/17/24
+2024-06-19,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,1,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,6/17/24
+2024-06-19,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,4,0,6/17/24
+2024-06-20,(direct),(none),(direct),first_visit,Direct,Organic,,5,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,37,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,6/17/24
+2024-06-20,(direct),(none),(direct),page_view,Direct,Organic,,6,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,6,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,page_view,Google,Paid,,50,0,6/17/24
+2024-06-20,(direct),(none),(direct),scroll,Direct,Organic,,2,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,6/17/24
+2024-06-20,(direct),(none),(direct),session_start,Direct,Organic,8,8,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,session_start,Google,Paid,45,45,0,6/17/24
+2024-06-20,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,6/17/24
+2024-06-20,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,30,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,6/17/24
+2024-06-21,(direct),(none),(direct),first_visit,Direct,Organic,,7,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,4,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,19,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,2,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,6/17/24
+2024-06-21,(direct),(none),(direct),page_view,Direct,Organic,,8,0,6/17/24
+2024-06-21,google,organic,(organic),page_view,Google,Organic,,1,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,11,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,page_view,Google,Paid,,29,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,6/17/24
+2024-06-21,(direct),(none),(direct),session_start,Direct,Organic,7,7,0,6/17/24
+2024-06-21,google,organic,(organic),session_start,Google,Organic,1,1,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,4,4,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,session_start,Google,Paid,22,22,0,6/17/24
+2024-06-21,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,6/17/24
+2024-06-21,google,organic,(organic),user_engagement,Google,Organic,,1,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,6/17/24
+2024-06-21,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,14,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,18,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,page_view,Google,Paid,,26,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,6/17/24
+2024-06-22,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,13,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,click,Google,Paid,,3,0,6/17/24
+2024-06-23,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,15,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,6/17/24
+2024-06-23,(direct),(none),(direct),page_view,Direct,Organic,,3,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,page_view,Google,Paid,,18,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,6/17/24
+2024-06-23,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,session_start,Google,Paid,16,16,0,6/17/24
+2024-06-23,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,6/17/24
+2024-06-23,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,6/17/24
+2024-06-24,google,cpc,(organic),click_to_call_website,Google,Paid,,2,0,6/24/24
+2024-06-24,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,6/24/24
+2024-06-24,google,cpc,(organic),first_visit,Google,Paid,,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,19,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,6/24/24
+2024-06-24,(direct),(none),(direct),page_view,Direct,Organic,,3,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,3,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,page_view,Google,Paid,,21,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,6/24/24
+2024-06-24,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,6/24/24
+2024-06-24,google,cpc,(organic),session_start,Google,Paid,1,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,6/24/24
+2024-06-24,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,6/24/24
+2024-06-24,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,14,0,6/24/24
+2024-06-25,(direct),(none),(direct),click,Direct,Organic,,2,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,6/24/24
+2024-06-25,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,6/24/24
+2024-06-25,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,4,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,15,0,6/24/24
+2024-06-25,(direct),(none),(direct),form_start,Direct,Organic,,2,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,6/24/24
+2024-06-25,(direct),(none),(direct),form_submission,Direct,Organic,,2,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,6/24/24
+2024-06-25,(direct),(none),(direct),page_view,Direct,Organic,,10,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,5,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,page_view,Google,Paid,,17,0,6/24/24
+2024-06-25,(direct),(none),(direct),scroll,Direct,Organic,,2,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,2,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,6/24/24
+2024-06-25,(direct),(none),(direct),session_start,Direct,Organic,3,3,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,4,4,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,session_start,Google,Paid,15,15,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,4,0,6/24/24
+2024-06-25,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,9,0,6/24/24
+2024-06-26,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,6/24/24
+2024-06-26,google,organic,(organic),first_visit,Google,Organic,,1,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,20,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,7,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Search,page_view,Google,Paid,,23,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,6/24/24
+2024-06-26,google,organic,(organic),session_start,Google,Organic,1,1,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Search,session_start,Google,Paid,21,21,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,6/24/24
+2024-06-26,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,15,0,6/24/24
+2024-06-27,(direct),(none),(direct),click,Direct,Organic,,1,0,6/24/24
+2024-06-27,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,6/24/24
+2024-06-27,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,19,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,4,0,6/24/24
+2024-06-27,(direct),(none),(direct),page_view,Direct,Organic,,4,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,page_view,Google,Paid,,22,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,6/24/24
+2024-06-27,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,6/24/24
+2024-06-27,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,6/24/24
+2024-06-27,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,15,0,6/24/24
+2024-06-28,(direct),(none),(direct),click,Direct,Organic,,1,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,6/24/24
+2024-06-28,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,4,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,13,0,6/24/24
+2024-06-28,(direct),(none),(direct),form_start,Direct,Organic,,1,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,6/24/24
+2024-06-28,(direct),(none),(direct),form_submission,Direct,Organic,,1,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,2,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,6/24/24
+2024-06-28,(direct),(none),(direct),page_view,Direct,Organic,,6,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,5,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,page_view,Google,Paid,,17,0,6/24/24
+2024-06-28,(direct),(none),(direct),scroll,Direct,Organic,,3,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,2,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,6/24/24
+2024-06-28,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,5,5,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,session_start,Google,Paid,15,15,0,6/24/24
+2024-06-28,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,6/24/24
+2024-06-28,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,6/24/24
+2024-06-29,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,6/24/24
+2024-06-29,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,12,0,6/24/24
+2024-06-29,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,6/24/24
+2024-06-29,(direct),(none),(direct),page_view,Direct,Organic,,4,0,6/24/24
+2024-06-29,(not set),(not set),(not set),page_view,Other,Paid,,1,0,6/24/24
+2024-06-29,google,organic,(organic),page_view,Google,Organic,,1,0,6/24/24
+2024-06-29,google,cpc,DF - Leads - Search,page_view,Google,Paid,,12,0,6/24/24
+2024-06-29,(direct),(none),(direct),scroll,Direct,Organic,,1,0,6/24/24
+2024-06-29,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,6/24/24
+2024-06-29,google,organic,(organic),session_start,Google,Organic,1,1,0,6/24/24
+2024-06-29,google,cpc,DF - Leads - Search,session_start,Google,Paid,13,13,0,6/24/24
+2024-06-29,(direct),(none),(direct),user_engagement,Direct,Organic,,3,0,6/24/24
+2024-06-29,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,10,0,6/24/24
+2024-06-30,(direct),(none),(direct),first_visit,Direct,Organic,,5,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,22,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,6/24/24
+2024-06-30,(direct),(none),(direct),page_view,Direct,Organic,,8,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,page_view,Google,Paid,,29,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,scroll,Google,Paid,,8,0,6/24/24
+2024-06-30,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,session_start,Google,Paid,27,27,0,6/24/24
+2024-06-30,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,6/24/24
+2024-06-30,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,14,0,6/24/24
+2024-07-01,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,7/1/24
+2024-07-01,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,7/1/24
+2024-07-01,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,7/1/24
+2024-07-01,google,organic,(organic),first_visit,Google,Organic,,1,0,7/1/24
+2024-07-01,m.facebook.com,referral,(referral),first_visit,Other,Organic,,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,18,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,3,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/1/24
+2024-07-01,(direct),(none),(direct),page_view,Direct,Organic,,1,0,7/1/24
+2024-07-01,google,organic,(organic),page_view,Google,Organic,,1,0,7/1/24
+2024-07-01,m.facebook.com,referral,(referral),page_view,Other,Organic,,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,7,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,page_view,Google,Paid,,22,0,7/1/24
+2024-07-01,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/1/24
+2024-07-01,google,organic,(organic),scroll,Google,Organic,,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,7/1/24
+2024-07-01,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,7/1/24
+2024-07-01,google,organic,(organic),session_start,Google,Organic,3,3,0,7/1/24
+2024-07-01,m.facebook.com,referral,(referral),session_start,Other,Organic,1,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,4,4,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,7/1/24
+2024-07-01,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,3,0,7/1/24
+2024-07-01,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,11,0,7/1/24
+2024-07-02,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/1/24
+2024-07-02,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/1/24
+2024-07-02,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,4,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,page_view,Google,Paid,,22,0,7/1/24
+2024-07-02,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/1/24
+2024-07-02,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,7/1/24
+2024-07-02,google,organic,(organic),session_start,Google,Organic,1,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,session_start,Google,Paid,22,22,0,7/1/24
+2024-07-02,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,7/1/24
+2024-07-02,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/1/24
+2024-07-02,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,12,0,7/1/24
+2024-07-03,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/1/24
+2024-07-03,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/1/24
+2024-07-03,google,organic,(organic),first_visit,Google,Organic,,1,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,16,0,7/1/24
+2024-07-03,(direct),(none),(direct),form_start,Direct,Organic,,2,0,7/1/24
+2024-07-03,(direct),(none),(direct),form_submission,Direct,Organic,,1,0,7/1/24
+2024-07-03,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/1/24
+2024-07-03,google,organic,(organic),page_view,Google,Organic,,3,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Search,page_view,Google,Paid,,26,0,7/1/24
+2024-07-03,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/1/24
+2024-07-03,google,organic,(organic),scroll,Google,Organic,,1,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Search,scroll,Google,Paid,,6,0,7/1/24
+2024-07-03,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/1/24
+2024-07-03,google,organic,(organic),session_start,Google,Organic,4,4,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,7/1/24
+2024-07-03,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,7/1/24
+2024-07-03,google,organic,(organic),user_engagement,Google,Organic,,2,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,7/1/24
+2024-07-03,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,7,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,3,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,8,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,page_view,Google,Paid,,11,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,5,5,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,session_start,Google,Paid,10,10,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/1/24
+2024-07-04,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,3,0,7/1/24
+2024-07-05,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,2,0,7/1/24
+2024-07-05,google,cpc,DF - Leads - Search,page_view,Google,Paid,,5,0,7/1/24
+2024-07-05,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,7/1/24
+2024-07-05,google,cpc,DF - Leads - Search,session_start,Google,Paid,2,2,0,7/1/24
+2024-07-05,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,7/1/24
+2024-07-06,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,9,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/1/24
+2024-07-06,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,page_view,Google,Paid,,9,0,7/1/24
+2024-07-06,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/1/24
+2024-07-06,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,session_start,Google,Paid,9,9,0,7/1/24
+2024-07-06,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,5,0,7/1/24
+2024-07-07,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/1/24
+2024-07-07,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/1/24
+2024-07-07,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/1/24
+2024-07-07,google,organic,(organic),first_visit,Google,Organic,,1,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,20,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/1/24
+2024-07-07,(direct),(none),(direct),page_view,Direct,Organic,,6,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,page_view,Google,Paid,,30,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,scroll,Google,Paid,,8,0,7/1/24
+2024-07-07,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/1/24
+2024-07-07,google,organic,(organic),session_start,Google,Organic,1,1,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,session_start,Google,Paid,21,21,0,7/1/24
+2024-07-07,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/1/24
+2024-07-07,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,10,0,7/1/24
+2024-07-08,(direct),(none),(direct),click,Direct,Organic,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,7/8/24
+2024-07-08,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/8/24
+2024-07-08,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,7/8/24
+2024-07-08,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/8/24
+2024-07-08,google,organic,(organic),first_visit,Google,Organic,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,18,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,4,0,7/8/24
+2024-07-08,(direct),(none),(direct),page_view,Direct,Organic,,2,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,3,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,page_view,Google,Paid,,30,0,7/8/24
+2024-07-08,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,scroll,Google,Paid,,11,0,7/8/24
+2024-07-08,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,7/8/24
+2024-07-08,google,organic,(organic),session_start,Google,Organic,1,1,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,session_start,Google,Paid,20,20,0,7/8/24
+2024-07-08,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,12,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,file_download,Google,Paid,,1,0,7/8/24
+2024-07-09,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,25,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,form_start,Google,Paid,,7,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,7,0,7/8/24
+2024-07-09,(direct),(none),(direct),page_view,Direct,Organic,,5,0,7/8/24
+2024-07-09,google,organic,(organic),page_view,Google,Organic,,2,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,page_view,Google,Paid,,44,0,7/8/24
+2024-07-09,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,scroll,Google,Paid,,14,0,7/8/24
+2024-07-09,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/8/24
+2024-07-09,google,organic,(organic),session_start,Google,Organic,3,3,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,session_start,Google,Paid,30,30,0,7/8/24
+2024-07-09,google,organic,(organic),user_engagement,Google,Organic,,2,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/8/24
+2024-07-09,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,22,0,7/8/24
+2024-07-10,(direct),(none),(direct),click,Direct,Organic,,5,0,7/8/24
+2024-07-10,google,organic,(organic),click,Google,Organic,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,click,Google,Paid,,3,0,7/8/24
+2024-07-10,(direct),(none),(direct),click_to_call_website,Direct,Organic,,5,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,3,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,file_download,Google,Paid,,1,0,7/8/24
+2024-07-10,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/8/24
+2024-07-10,google,organic,(organic),first_visit,Google,Organic,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,22,0,7/8/24
+2024-07-10,(direct),(none),(direct),form_start,Direct,Organic,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,7/8/24
+2024-07-10,(direct),(none),(direct),form_submission,Direct,Organic,,3,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,3,0,7/8/24
+2024-07-10,(direct),(none),(direct),page_view,Direct,Organic,,4,0,7/8/24
+2024-07-10,google,organic,(organic),page_view,Google,Organic,,9,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,page_view,Google,Paid,,40,0,7/8/24
+2024-07-10,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/8/24
+2024-07-10,google,organic,(organic),scroll,Google,Organic,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,scroll,Google,Paid,,10,0,7/8/24
+2024-07-10,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,7/8/24
+2024-07-10,google,organic,(organic),session_start,Google,Organic,2,2,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,session_start,Google,Paid,23,23,0,7/8/24
+2024-07-10,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/8/24
+2024-07-10,google,organic,(organic),user_engagement,Google,Organic,,3,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/8/24
+2024-07-10,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,11,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,file_download,Google,Paid,,1,0,7/8/24
+2024-07-11,google,organic,(organic),first_visit,Google,Organic,,4,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,23,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/8/24
+2024-07-11,google,organic,(organic),page_view,Google,Organic,,8,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,5,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,page_view,Google,Paid,,35,0,7/8/24
+2024-07-11,google,organic,(organic),scroll,Google,Organic,,2,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,scroll,Google,Paid,,12,0,7/8/24
+2024-07-11,google,organic,(organic),session_start,Google,Organic,7,7,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,session_start,Google,Paid,26,26,0,7/8/24
+2024-07-11,google,organic,(organic),user_engagement,Google,Organic,,4,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,7/8/24
+2024-07-11,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,13,0,7/8/24
+2024-07-12,(direct),(none),(direct),click,Direct,Organic,,1,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,click,Google,Paid,,3,0,7/8/24
+2024-07-12,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,2,0,7/8/24
+2024-07-12,(direct),(none),(direct),first_visit,Direct,Organic,,7,0,7/8/24
+2024-07-12,google,organic,(organic),first_visit,Google,Organic,,3,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,8,0,7/8/24
+2024-07-12,(direct),(none),(direct),form_start,Direct,Organic,,4,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/8/24
+2024-07-12,(direct),(none),(direct),page_view,Direct,Organic,,13,0,7/8/24
+2024-07-12,google,organic,(organic),page_view,Google,Organic,,1,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,page_view,Google,Paid,,9,0,7/8/24
+2024-07-12,(direct),(none),(direct),scroll,Direct,Organic,,4,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,7/8/24
+2024-07-12,(direct),(none),(direct),session_start,Direct,Organic,9,9,0,7/8/24
+2024-07-12,google,organic,(organic),session_start,Google,Organic,3,3,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,session_start,Google,Paid,9,9,0,7/8/24
+2024-07-12,(direct),(none),(direct),user_engagement,Direct,Organic,,7,0,7/8/24
+2024-07-12,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/8/24
+2024-07-12,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,3,0,7/8/24
+2024-07-13,(direct),(none),(direct),click,Direct,Organic,,2,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,7/8/24
+2024-07-13,(direct),(none),(direct),click_to_call_website,Direct,Organic,,2,0,7/8/24
+2024-07-13,(direct),(none),(direct),first_visit,Direct,Organic,,4,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,12,0,7/8/24
+2024-07-13,(direct),(none),(direct),form_start,Direct,Organic,,1,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,form_start,Google,Paid,,5,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,5,0,7/8/24
+2024-07-13,(direct),(none),(direct),page_view,Direct,Organic,,6,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,page_view,Google,Paid,,13,0,7/8/24
+2024-07-13,(direct),(none),(direct),scroll,Direct,Organic,,2,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,scroll,Google,Paid,,7,0,7/8/24
+2024-07-13,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,session_start,Google,Paid,14,14,0,7/8/24
+2024-07-13,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/8/24
+2024-07-13,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,9,0,7/8/24
+2024-07-14,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,13,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/8/24
+2024-07-14,(direct),(none),(direct),page_view,Direct,Organic,,5,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,page_view,Google,Paid,,14,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/8/24
+2024-07-14,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,session_start,Google,Paid,14,14,0,7/8/24
+2024-07-14,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,7/8/24
+2024-07-14,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,7/8/24
+2024-07-15,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,7/15/24
+2024-07-15,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,7/15/24
+2024-07-15,google,organic,(organic),first_visit,Google,Organic,,6,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,27,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/15/24
+2024-07-15,(direct),(none),(direct),page_view,Direct,Organic,,1,0,7/15/24
+2024-07-15,google,organic,(organic),page_view,Google,Organic,,5,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,page_view,Google,Paid,,35,0,7/15/24
+2024-07-15,google,organic,(organic),scroll,Google,Organic,,2,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,7/15/24
+2024-07-15,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,7/15/24
+2024-07-15,google,organic,(organic),session_start,Google,Organic,7,7,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,session_start,Google,Paid,29,29,0,7/15/24
+2024-07-15,google,organic,(organic),user_engagement,Google,Organic,,3,0,7/15/24
+2024-07-15,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,17,0,7/15/24
+2024-07-16,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,7/15/24
+2024-07-16,google,organic,(organic),first_visit,Google,Organic,,7,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/15/24
+2024-07-16,google,organic,(organic),form_start,Google,Organic,,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/15/24
+2024-07-16,google,organic,(organic),form_submission,Google,Organic,,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-16,(direct),(none),(direct),page_view,Direct,Organic,,2,0,7/15/24
+2024-07-16,google,organic,(organic),page_view,Google,Organic,,8,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,page_view,Google,Paid,,19,0,7/15/24
+2024-07-16,google,organic,(organic),scroll,Google,Organic,,2,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,7/15/24
+2024-07-16,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,7/15/24
+2024-07-16,google,organic,(organic),session_start,Google,Organic,8,8,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,session_start,Google,Paid,19,19,0,7/15/24
+2024-07-16,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,7/15/24
+2024-07-16,google,organic,(organic),user_engagement,Google,Organic,,3,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/15/24
+2024-07-16,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,10,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,7/15/24
+2024-07-17,google,cpc,(organic),click_to_call_website,Google,Paid,,2,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/15/24
+2024-07-17,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/15/24
+2024-07-17,google,cpc,(organic),first_visit,Google,Paid,,1,0,7/15/24
+2024-07-17,google,organic,(organic),first_visit,Google,Organic,,6,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,18,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,form_start,Google,Paid,,6,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,7,0,7/15/24
+2024-07-17,(direct),(none),(direct),page_view,Direct,Organic,,8,0,7/15/24
+2024-07-17,google,organic,(organic),page_view,Google,Organic,,13,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,page_view,Google,Paid,,31,0,7/15/24
+2024-07-17,(direct),(none),(direct),scroll,Direct,Organic,,3,0,7/15/24
+2024-07-17,google,organic,(organic),scroll,Google,Organic,,4,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,scroll,Google,Paid,,9,0,7/15/24
+2024-07-17,(direct),(none),(direct),session_start,Direct,Organic,3,3,0,7/15/24
+2024-07-17,google,cpc,(organic),session_start,Google,Paid,1,1,0,7/15/24
+2024-07-17,google,organic,(organic),session_start,Google,Organic,7,7,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,session_start,Google,Paid,24,24,0,7/15/24
+2024-07-17,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,7/15/24
+2024-07-17,google,organic,(organic),user_engagement,Google,Organic,,2,0,7/15/24
+2024-07-17,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,13,0,7/15/24
+2024-07-18,google,cpc,DF - Brand,click,Google,Paid,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Call Only,click_to_call_website,Google,Paid,,1,0,7/15/24
+2024-07-18,(direct),(none),(direct),first_visit,Direct,Organic,,1,0,7/15/24
+2024-07-18,google,organic,(organic),first_visit,Google,Organic,,5,0,7/15/24
+2024-07-18,google,cpc,DF - Brand,first_visit,Google,Paid,,2,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,18,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Brand,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-18,(direct),(none),(direct),page_view,Direct,Organic,,1,0,7/15/24
+2024-07-18,google,organic,(organic),page_view,Google,Organic,,8,0,7/15/24
+2024-07-18,google,cpc,DF - Brand,page_view,Google,Paid,,3,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,page_view,Google,Paid,,23,0,7/15/24
+2024-07-18,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/15/24
+2024-07-18,google,organic,(organic),scroll,Google,Organic,,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,scroll,Google,Paid,,6,0,7/15/24
+2024-07-18,(direct),(none),(direct),session_start,Direct,Organic,1,1,0,7/15/24
+2024-07-18,google,organic,(organic),session_start,Google,Organic,6,6,0,7/15/24
+2024-07-18,google,cpc,DF - Brand,session_start,Google,Paid,2,2,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,session_start,Google,Paid,19,19,0,7/15/24
+2024-07-18,google,organic,(organic),user_engagement,Google,Organic,,6,0,7/15/24
+2024-07-18,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,17,0,7/15/24
+2024-07-19,(direct),(none),(direct),click_to_call_website,Direct,Organic,,2,0,7/15/24
+2024-07-19,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/15/24
+2024-07-19,google,organic,(organic),first_visit,Google,Organic,,5,0,7/15/24
+2024-07-19,app.asana.com,referral,(referral),first_visit,Other,Organic,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,first_visit,Google,Paid,,3,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,15,0,7/15/24
+2024-07-19,google,organic,(organic),form_start,Google,Organic,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,form_start,Google,Paid,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,7/15/24
+2024-07-19,google,organic,(organic),form_submission,Google,Organic,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/15/24
+2024-07-19,(direct),(none),(direct),page_view,Direct,Organic,,1,0,7/15/24
+2024-07-19,google,organic,(organic),page_view,Google,Organic,,14,0,7/15/24
+2024-07-19,app.asana.com,referral,(referral),page_view,Other,Organic,,2,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,page_view,Google,Paid,,5,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,page_view,Google,Paid,,18,0,7/15/24
+2024-07-19,google,organic,(organic),scroll,Google,Organic,,4,0,7/15/24
+2024-07-19,app.asana.com,referral,(referral),scroll,Other,Organic,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,7/15/24
+2024-07-19,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,7/15/24
+2024-07-19,google,organic,(organic),session_start,Google,Organic,5,5,0,7/15/24
+2024-07-19,app.asana.com,referral,(referral),session_start,Other,Organic,1,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,session_start,Google,Paid,4,4,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,session_start,Google,Paid,18,18,0,7/15/24
+2024-07-19,google,organic,(organic),user_engagement,Google,Organic,,3,0,7/15/24
+2024-07-19,app.asana.com,referral,(referral),user_engagement,Other,Organic,,1,0,7/15/24
+2024-07-19,google,cpc,DF - Brand,user_engagement,Google,Paid,,2,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,7/15/24
+2024-07-19,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,6,0,7/15/24
+2024-07-20,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,10,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/15/24
+2024-07-20,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,page_view,Google,Paid,,11,0,7/15/24
+2024-07-20,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/15/24
+2024-07-20,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,session_start,Google,Paid,11,11,0,7/15/24
+2024-07-20,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,4,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,click,Google,Paid,,3,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,first_visit,Google,Paid,,3,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,form_start,Google,Paid,,1,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,form_start,Google,Paid,,7,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,form_submission,Google,Paid,,1,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,3,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,page_view,Google,Paid,,4,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,page_view,Google,Paid,,25,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,scroll,Google,Paid,,2,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,session_start,Google,Paid,4,4,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,session_start,Google,Paid,19,19,0,7/15/24
+2024-07-21,google,cpc,DF - Brand,user_engagement,Google,Paid,,3,0,7/15/24
+2024-07-21,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,5,0,7/15/24
+2024-07-22,(direct),(none),(direct),click,Direct,Organic,,1,0,7/22/24
+2024-07-22,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/22/24
+2024-07-22,google,cpc,(not set),click_to_call_website,Google,Paid,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/22/24
+2024-07-22,(direct),(none),(direct),first_visit,Direct,Organic,,4,0,7/22/24
+2024-07-22,google,cpc,(not set),first_visit,Google,Paid,,1,0,7/22/24
+2024-07-22,bing,organic,(organic),first_visit,Bing,Organic,,1,0,7/22/24
+2024-07-22,google,organic,(organic),first_visit,Google,Organic,,3,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,first_visit,Google,Paid,,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,21,0,7/22/24
+2024-07-22,(direct),(none),(direct),form_start,Direct,Organic,,2,0,7/22/24
+2024-07-22,bing,organic,(organic),form_start,Bing,Organic,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,form_start,Google,Paid,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/22/24
+2024-07-22,(direct),(none),(direct),form_submission,Direct,Organic,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-22,(direct),(none),(direct),page_view,Direct,Organic,,9,0,7/22/24
+2024-07-22,bing,organic,(organic),page_view,Bing,Organic,,6,0,7/22/24
+2024-07-22,google,organic,(organic),page_view,Google,Organic,,6,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,page_view,Google,Paid,,4,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,4,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,page_view,Google,Paid,,34,0,7/22/24
+2024-07-22,(direct),(none),(direct),scroll,Direct,Organic,,5,0,7/22/24
+2024-07-22,google,organic,(organic),scroll,Google,Organic,,4,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,scroll,Google,Paid,,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,2,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,7/22/24
+2024-07-22,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,7/22/24
+2024-07-22,google,cpc,(not set),session_start,Google,Paid,1,1,0,7/22/24
+2024-07-22,bing,organic,(organic),session_start,Bing,Organic,1,1,0,7/22/24
+2024-07-22,google,organic,(organic),session_start,Google,Organic,5,5,0,7/22/24
+2024-07-22,google,cpc,DF - Brand,session_start,Google,Paid,3,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,session_start,Google,Paid,27,27,0,7/22/24
+2024-07-22,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/22/24
+2024-07-22,bing,organic,(organic),user_engagement,Bing,Organic,,4,0,7/22/24
+2024-07-22,google,organic,(organic),user_engagement,Google,Organic,,3,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/22/24
+2024-07-22,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,13,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,click,Google,Paid,,4,0,7/22/24
+2024-07-23,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,4,0,7/22/24
+2024-07-23,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/22/24
+2024-07-23,google,organic,(organic),first_visit,Google,Organic,,5,0,7/22/24
+2024-07-23,google,cpc,DF - Brand,first_visit,Google,Paid,,2,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,7/22/24
+2024-07-23,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/22/24
+2024-07-23,google,organic,(organic),page_view,Google,Organic,,6,0,7/22/24
+2024-07-23,google,cpc,DF - Brand,page_view,Google,Paid,,5,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,page_view,Google,Paid,,21,0,7/22/24
+2024-07-23,google,organic,(organic),scroll,Google,Organic,,4,0,7/22/24
+2024-07-23,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/22/24
+2024-07-23,(direct),(none),(direct),session_start,Direct,Organic,3,3,0,7/22/24
+2024-07-23,google,organic,(organic),session_start,Google,Organic,5,5,0,7/22/24
+2024-07-23,google,cpc,DF - Brand,session_start,Google,Paid,2,2,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,session_start,Google,Paid,18,18,0,7/22/24
+2024-07-23,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/22/24
+2024-07-23,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,9,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,7/22/24
+2024-07-24,google,cpc,(not set),click_to_call_website,Google,Paid,,1,0,7/22/24
+2024-07-24,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/22/24
+2024-07-24,google,organic,(organic),first_visit,Google,Organic,,4,0,7/22/24
+2024-07-24,google,cpc,DF - Brand,first_visit,Google,Paid,,4,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/22/24
+2024-07-24,google,organic,(organic),form_start,Google,Organic,,2,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,3,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,7/22/24
+2024-07-24,google,organic,(organic),form_submission,Google,Organic,,1,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,3,0,7/22/24
+2024-07-24,(direct),(none),(direct),page_view,Direct,Organic,,2,0,7/22/24
+2024-07-24,google,organic,(organic),page_view,Google,Organic,,9,0,7/22/24
+2024-07-24,google,cpc,DF - Brand,page_view,Google,Paid,,7,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,5,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,page_view,Google,Paid,,20,0,7/22/24
+2024-07-24,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/22/24
+2024-07-24,google,organic,(organic),scroll,Google,Organic,,3,0,7/22/24
+2024-07-24,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,2,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/22/24
+2024-07-24,(direct),(none),(direct),session_start,Direct,Organic,2,2,0,7/22/24
+2024-07-24,google,cpc,(not set),session_start,Google,Paid,1,1,0,7/22/24
+2024-07-24,google,organic,(organic),session_start,Google,Organic,6,6,0,7/22/24
+2024-07-24,google,cpc,DF - Brand,session_start,Google,Paid,4,4,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,session_start,Google,Paid,17,17,0,7/22/24
+2024-07-24,google,organic,(organic),user_engagement,Google,Organic,,2,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/22/24
+2024-07-24,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,click,Google,Paid,,2,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,2,0,7/22/24
+2024-07-25,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,7/22/24
+2024-07-25,duckduckgo,organic,(organic),first_visit,Other,Organic,,1,0,7/22/24
+2024-07-25,google,organic,(organic),first_visit,Google,Organic,,8,0,7/22/24
+2024-07-25,yahoo,organic,(organic),first_visit,Yahoo,Organic,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,4,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,7/22/24
+2024-07-25,(direct),(none),(direct),form_start,Direct,Organic,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,form_start,Google,Paid,,2,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,7/22/24
+2024-07-25,(direct),(none),(direct),form_submission,Direct,Organic,,2,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-25,(direct),(none),(direct),page_view,Direct,Organic,,4,0,7/22/24
+2024-07-25,duckduckgo,organic,(organic),page_view,Other,Organic,,1,0,7/22/24
+2024-07-25,google,organic,(organic),page_view,Google,Organic,,16,0,7/22/24
+2024-07-25,yahoo,organic,(organic),page_view,Yahoo,Organic,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,page_view,Google,Paid,,7,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,8,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,page_view,Google,Paid,,22,0,7/22/24
+2024-07-25,(direct),(none),(direct),scroll,Direct,Organic,,2,0,7/22/24
+2024-07-25,google,organic,(organic),scroll,Google,Organic,,7,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,2,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,7/22/24
+2024-07-25,(direct),(none),(direct),session_start,Direct,Organic,7,7,0,7/22/24
+2024-07-25,duckduckgo,organic,(organic),session_start,Other,Organic,1,1,0,7/22/24
+2024-07-25,google,organic,(organic),session_start,Google,Organic,9,9,0,7/22/24
+2024-07-25,yahoo,organic,(organic),session_start,Yahoo,Organic,1,1,0,7/22/24
+2024-07-25,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,4,4,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,session_start,Google,Paid,18,18,0,7/22/24
+2024-07-25,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/22/24
+2024-07-25,duckduckgo,organic,(organic),user_engagement,Other,Organic,,1,0,7/22/24
+2024-07-25,google,organic,(organic),user_engagement,Google,Organic,,7,0,7/22/24
+2024-07-25,yahoo,organic,(organic),user_engagement,Yahoo,Organic,,1,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,3,0,7/22/24
+2024-07-25,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,7/22/24
+2024-07-26,google,organic,(organic),click,Google,Organic,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,7/22/24
+2024-07-26,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,7/22/24
+2024-07-26,(direct),(none),(direct),first_visit,Direct,Organic,,5,0,7/22/24
+2024-07-26,google,organic,(organic),first_visit,Google,Organic,,6,0,7/22/24
+2024-07-26,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,4,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,9,0,7/22/24
+2024-07-26,google,organic,(organic),form_start,Google,Organic,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,3,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,form_submission,Google,Paid,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,2,0,7/22/24
+2024-07-26,(direct),(none),(direct),page_view,Direct,Organic,,5,0,7/22/24
+2024-07-26,google,organic,(organic),page_view,Google,Organic,,9,0,7/22/24
+2024-07-26,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,9,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,page_view,Google,Paid,,10,0,7/22/24
+2024-07-26,google,organic,(organic),scroll,Google,Organic,,4,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,3,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,7/22/24
+2024-07-26,(direct),(none),(direct),session_start,Direct,Organic,8,8,0,7/22/24
+2024-07-26,google,organic,(organic),session_start,Google,Organic,9,9,0,7/22/24
+2024-07-26,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,5,5,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,session_start,Google,Paid,10,10,0,7/22/24
+2024-07-26,(direct),(none),(direct),user_engagement,Direct,Organic,,6,0,7/22/24
+2024-07-26,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,7/22/24
+2024-07-26,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,5,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/22/24
+2024-07-27,(direct),(none),(direct),first_visit,Direct,Organic,,4,0,7/22/24
+2024-07-27,google,organic,(organic),first_visit,Google,Organic,,3,0,7/22/24
+2024-07-27,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,16,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,4,0,7/22/24
+2024-07-27,(direct),(none),(direct),page_view,Direct,Organic,,4,0,7/22/24
+2024-07-27,google,organic,(organic),page_view,Google,Organic,,8,0,7/22/24
+2024-07-27,google,cpc,DF - Brand,page_view,Google,Paid,,2,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,page_view,Google,Paid,,19,0,7/22/24
+2024-07-27,google,organic,(organic),scroll,Google,Organic,,2,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,scroll,Google,Paid,,6,0,7/22/24
+2024-07-27,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,7/22/24
+2024-07-27,google,organic,(organic),session_start,Google,Organic,4,4,0,7/22/24
+2024-07-27,google,cpc,DF - Brand,session_start,Google,Paid,2,2,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,session_start,Google,Paid,17,17,0,7/22/24
+2024-07-27,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,7/22/24
+2024-07-27,google,organic,(organic),user_engagement,Google,Organic,,2,0,7/22/24
+2024-07-27,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,7/22/24
+2024-07-27,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,4,0,7/22/24
+2024-07-28,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/22/24
+2024-07-28,google,organic,(organic),first_visit,Google,Organic,,6,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,22,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,form_start,Google,Paid,,4,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,form_submission,Google,Paid,,3,0,7/22/24
+2024-07-28,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/22/24
+2024-07-28,google,organic,(organic),page_view,Google,Organic,,11,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,page_view,Google,Paid,,31,0,7/22/24
+2024-07-28,google,organic,(organic),scroll,Google,Organic,,3,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,scroll,Google,Paid,,6,0,7/22/24
+2024-07-28,(direct),(none),(direct),session_start,Direct,Organic,3,3,0,7/22/24
+2024-07-28,google,organic,(organic),session_start,Google,Organic,6,6,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,session_start,Google,Paid,25,25,0,7/22/24
+2024-07-28,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,7/22/24
+2024-07-28,google,organic,(organic),user_engagement,Google,Organic,,1,0,7/22/24
+2024-07-28,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,10,0,7/22/24
+2024-07-29,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,7/29/24
+2024-07-29,google,organic,(organic),first_visit,Google,Organic,,2,0,7/29/24
+2024-07-29,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,5,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,7/29/24
+2024-07-29,(direct),(none),(direct),page_view,Direct,Organic,,3,0,7/29/24
+2024-07-29,google,organic,(organic),page_view,Google,Organic,,3,0,7/29/24
+2024-07-29,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Search,page_view,Google,Paid,,8,0,7/29/24
+2024-07-29,google,organic,(organic),scroll,Google,Organic,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,7/29/24
+2024-07-29,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,7/29/24
+2024-07-29,google,organic,(organic),session_start,Google,Organic,3,3,0,7/29/24
+2024-07-29,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Search,session_start,Google,Paid,8,8,0,7/29/24
+2024-07-29,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,7/29/24
+2024-07-29,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,4,0,7/29/24
+2024-07-30,(direct),(none),(direct),click,Direct,Organic,,1,0,7/29/24
+2024-07-30,google,organic,(organic),click,Google,Organic,,1,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),click,Google,Organic,,1,0,7/29/24
+2024-07-30,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),click_to_call_website,Google,Organic,,1,0,7/29/24
+2024-07-30,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,4,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),eligibility_form_submission,Google,Organic,,1,0,7/29/24
+2024-07-30,google,organic,(organic),file_download,Google,Organic,,1,0,7/29/24
+2024-07-30,(direct),(none),(direct),first_visit,Direct,Organic,,14,0,7/29/24
+2024-07-30,google,cpc,(organic),first_visit,Google,Paid,,2,0,7/29/24
+2024-07-30,google,organic,(organic),first_visit,Google,Organic,,12,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),first_visit,Google,Organic,,1,0,7/29/24
+2024-07-30,(direct),(none),(direct),form_start,Direct,Organic,,2,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),form_start,Google,Organic,,2,0,7/29/24
+2024-07-30,(direct),(none),(direct),page_view,Direct,Organic,,22,0,7/29/24
+2024-07-30,google,cpc,(organic),page_view,Google,Paid,,2,0,7/29/24
+2024-07-30,google,organic,(organic),page_view,Google,Organic,,27,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,4,0,7/29/24
+2024-07-30,(direct),(none),(direct),scroll,Direct,Organic,,6,0,7/29/24
+2024-07-30,google,organic,(organic),scroll,Google,Organic,,10,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,1,0,7/29/24
+2024-07-30,(direct),(none),(direct),session_start,Direct,Organic,16,16,0,7/29/24
+2024-07-30,google,cpc,(organic),session_start,Google,Paid,2,2,0,7/29/24
+2024-07-30,google,organic,(organic),session_start,Google,Organic,13,13,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),session_start,Google,Organic,2,2,0,7/29/24
+2024-07-30,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,7/29/24
+2024-07-30,google,cpc,(organic),user_engagement,Google,Paid,,1,0,7/29/24
+2024-07-30,google,organic,(organic),user_engagement,Google,Organic,,12,0,7/29/24
+2024-07-30,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,2,0,7/29/24
+2024-07-31,google,cpc,(organic),eligibility_form_submission,Google,Paid,,4,0,7/29/24
+2024-07-31,yahoo,organic,(organic),eligibility_form_submission,Yahoo,Organic,,4,0,7/29/24
+2024-07-31,bing,organic,(organic),file_download,Bing,Organic,,1,0,7/29/24
+2024-07-31,(direct),(none),(direct),first_visit,Direct,Organic,,18,0,7/29/24
+2024-07-31,google,cpc,(organic),first_visit,Google,Paid,,3,0,7/29/24
+2024-07-31,bing,organic,(organic),first_visit,Bing,Organic,,2,0,7/29/24
+2024-07-31,google,organic,(organic),first_visit,Google,Organic,,16,0,7/29/24
+2024-07-31,yahoo,organic,(organic),first_visit,Yahoo,Organic,,1,0,7/29/24
+2024-07-31,google,cpc,(referral),first_visit,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,14,0,7/29/24
+2024-07-31,(direct),(none),(direct),form_start,Direct,Organic,,2,0,7/29/24
+2024-07-31,google,cpc,(organic),form_start,Google,Paid,,2,0,7/29/24
+2024-07-31,google,organic,(organic),form_start,Google,Organic,,1,0,7/29/24
+2024-07-31,yahoo,organic,(organic),form_start,Yahoo,Organic,,1,0,7/29/24
+2024-07-31,(direct),(none),(direct),page_view,Direct,Organic,,23,0,7/29/24
+2024-07-31,google,cpc,(organic),page_view,Google,Paid,,5,0,7/29/24
+2024-07-31,bing,organic,(organic),page_view,Bing,Organic,,3,0,7/29/24
+2024-07-31,google,organic,(organic),page_view,Google,Organic,,33,0,7/29/24
+2024-07-31,yahoo,organic,(organic),page_view,Yahoo,Organic,,3,0,7/29/24
+2024-07-31,google,cpc,(referral),page_view,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Search,page_view,Google,Paid,,16,0,7/29/24
+2024-07-31,(direct),(none),(direct),scroll,Direct,Organic,,3,0,7/29/24
+2024-07-31,google,cpc,(organic),scroll,Google,Paid,,3,0,7/29/24
+2024-07-31,bing,organic,(organic),scroll,Bing,Organic,,1,0,7/29/24
+2024-07-31,google,organic,(organic),scroll,Google,Organic,,13,0,7/29/24
+2024-07-31,yahoo,organic,(organic),scroll,Yahoo,Organic,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Search,scroll,Google,Paid,,4,0,7/29/24
+2024-07-31,(direct),(none),(direct),session_start,Direct,Organic,21,21,0,7/29/24
+2024-07-31,google,cpc,(organic),session_start,Google,Paid,3,3,0,7/29/24
+2024-07-31,bing,organic,(organic),session_start,Bing,Organic,2,2,0,7/29/24
+2024-07-31,google,organic,(organic),session_start,Google,Organic,18,18,0,7/29/24
+2024-07-31,yahoo,organic,(organic),session_start,Yahoo,Organic,1,1,0,7/29/24
+2024-07-31,google,cpc,(referral),session_start,Google,Paid,1,1,0,7/29/24
+2024-07-31,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Search,session_start,Google,Paid,15,15,0,7/29/24
+2024-07-31,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,7/29/24
+2024-07-31,(not set),(not set),(not set),user_engagement,Other,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,(organic),user_engagement,Google,Paid,,2,0,7/29/24
+2024-07-31,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,7/29/24
+2024-07-31,google,organic,(organic),user_engagement,Google,Organic,,9,0,7/29/24
+2024-07-31,yahoo,organic,(organic),user_engagement,Yahoo,Organic,,1,0,7/29/24
+2024-07-31,google,cpc,(referral),user_engagement,Google,Paid,,1,0,7/29/24
+2024-07-31,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,7/29/24
+2024-08-01,google,organic,(organic),click,Google,Organic,,1,0,7/29/24
+2024-08-01,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,7/29/24
+2024-08-01,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,7/29/24
+2024-08-01,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,2,0,7/29/24
+2024-08-01,google,cpc,(organic),eligibility_form_submission,Google,Paid,,2,0,7/29/24
+2024-08-01,(direct),(none),(direct),first_visit,Direct,Organic,,8,0,7/29/24
+2024-08-01,google,cpc,(organic),first_visit,Google,Paid,,2,0,7/29/24
+2024-08-01,bing,organic,(organic),first_visit,Bing,Organic,,2,0,7/29/24
+2024-08-01,google,organic,(organic),first_visit,Google,Organic,,11,0,7/29/24
+2024-08-01,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,6,0,7/29/24
+2024-08-01,(direct),(none),(direct),form_start,Direct,Organic,,1,0,7/29/24
+2024-08-01,google,cpc,(organic),form_start,Google,Paid,,1,0,7/29/24
+2024-08-01,(direct),(none),(direct),page_view,Direct,Organic,,19,0,7/29/24
+2024-08-01,google,cpc,(organic),page_view,Google,Paid,,4,0,7/29/24
+2024-08-01,bing,organic,(organic),page_view,Bing,Organic,,8,0,7/29/24
+2024-08-01,google,organic,(organic),page_view,Google,Organic,,33,0,7/29/24
+2024-08-01,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,7/29/24
+2024-08-01,google,cpc,DF - Leads - Search,page_view,Google,Paid,,9,0,7/29/24
+2024-08-01,(direct),(none),(direct),scroll,Direct,Organic,,4,0,7/29/24
+2024-08-01,google,cpc,(organic),scroll,Google,Paid,,2,0,7/29/24
+2024-08-01,bing,organic,(organic),scroll,Bing,Organic,,1,0,7/29/24
+2024-08-01,google,organic,(organic),scroll,Google,Organic,,12,0,7/29/24
+2024-08-01,(direct),(none),(direct),session_start,Direct,Organic,11,11,0,7/29/24
+2024-08-01,google,cpc,(organic),session_start,Google,Paid,2,2,0,7/29/24
+2024-08-01,bing,organic,(organic),session_start,Bing,Organic,2,2,0,7/29/24
+2024-08-01,google,organic,(organic),session_start,Google,Organic,16,16,0,7/29/24
+2024-08-01,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,7/29/24
+2024-08-01,google,cpc,DF - Leads - Search,session_start,Google,Paid,7,7,0,7/29/24
+2024-08-01,(direct),(none),(direct),user_engagement,Direct,Organic,,11,0,7/29/24
+2024-08-01,google,cpc,(organic),user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-01,bing,organic,(organic),user_engagement,Bing,Organic,,2,0,7/29/24
+2024-08-01,google,organic,(organic),user_engagement,Google,Organic,,9,0,7/29/24
+2024-08-01,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,1,0,7/29/24
+2024-08-01,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-02,google,organic,(organic),click,Google,Organic,,5,0,7/29/24
+2024-08-02,google,organic,(organic),click_to_call_website,Google,Organic,,3,0,7/29/24
+2024-08-02,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,6,0,7/29/24
+2024-08-02,google,cpc,(not set),eligibility_form_submission,Google,Paid,,2,0,7/29/24
+2024-08-02,google,cpc,(organic),eligibility_form_submission,Google,Paid,,2,0,7/29/24
+2024-08-02,(direct),(none),(direct),file_download,Direct,Organic,,1,0,7/29/24
+2024-08-02,(direct),(none),(direct),first_visit,Direct,Organic,,16,0,7/29/24
+2024-08-02,google,cpc,(not set),first_visit,Google,Paid,,2,0,7/29/24
+2024-08-02,google,cpc,(organic),first_visit,Google,Paid,,7,0,7/29/24
+2024-08-02,bing,organic,(organic),first_visit,Bing,Organic,,1,0,7/29/24
+2024-08-02,duckduckgo,organic,(organic),first_visit,Other,Organic,,1,0,7/29/24
+2024-08-02,google,organic,(organic),first_visit,Google,Organic,,17,0,7/29/24
+2024-08-02,yahoo,organic,(organic),first_visit,Yahoo,Organic,,1,0,7/29/24
+2024-08-02,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,3,0,7/29/24
+2024-08-02,(direct),(none),(direct),form_start,Direct,Organic,,3,0,7/29/24
+2024-08-02,google,cpc,(not set),form_start,Google,Paid,,1,0,7/29/24
+2024-08-02,google,cpc,(organic),form_start,Google,Paid,,1,0,7/29/24
+2024-08-02,(direct),(none),(direct),page_view,Direct,Organic,,36,0,7/29/24
+2024-08-02,google,cpc,(not set),page_view,Google,Paid,,12,0,7/29/24
+2024-08-02,google,cpc,(organic),page_view,Google,Paid,,9,0,7/29/24
+2024-08-02,bing,organic,(organic),page_view,Bing,Organic,,3,0,7/29/24
+2024-08-02,duckduckgo,organic,(organic),page_view,Other,Organic,,5,0,7/29/24
+2024-08-02,google,organic,(organic),page_view,Google,Organic,,37,0,7/29/24
+2024-08-02,yahoo,organic,(organic),page_view,Yahoo,Organic,,3,0,7/29/24
+2024-08-02,google,cpc,DF - Leads - Search,page_view,Google,Paid,,3,0,7/29/24
+2024-08-02,(direct),(none),(direct),scroll,Direct,Organic,,6,0,7/29/24
+2024-08-02,google,cpc,(not set),scroll,Google,Paid,,1,0,7/29/24
+2024-08-02,google,cpc,(organic),scroll,Google,Paid,,2,0,7/29/24
+2024-08-02,bing,organic,(organic),scroll,Bing,Organic,,1,0,7/29/24
+2024-08-02,duckduckgo,organic,(organic),scroll,Other,Organic,,1,0,7/29/24
+2024-08-02,google,organic,(organic),scroll,Google,Organic,,12,0,7/29/24
+2024-08-02,yahoo,organic,(organic),scroll,Yahoo,Organic,,1,0,7/29/24
+2024-08-02,(direct),(none),(direct),session_start,Direct,Organic,20,20,0,7/29/24
+2024-08-02,google,cpc,(not set),session_start,Google,Paid,2,2,0,7/29/24
+2024-08-02,google,cpc,(organic),session_start,Google,Paid,8,8,0,7/29/24
+2024-08-02,bing,organic,(organic),session_start,Bing,Organic,1,1,0,7/29/24
+2024-08-02,duckduckgo,organic,(organic),session_start,Other,Organic,1,1,0,7/29/24
+2024-08-02,google,organic,(organic),session_start,Google,Organic,22,22,0,7/29/24
+2024-08-02,yahoo,organic,(organic),session_start,Yahoo,Organic,1,1,0,7/29/24
+2024-08-02,google,cpc,DF - Leads - Search,session_start,Google,Paid,3,3,0,7/29/24
+2024-08-02,(direct),(none),(direct),user_engagement,Direct,Organic,,15,0,7/29/24
+2024-08-02,google,cpc,(organic),user_engagement,Google,Paid,,3,0,7/29/24
+2024-08-02,duckduckgo,organic,(organic),user_engagement,Other,Organic,,1,0,7/29/24
+2024-08-02,google,organic,(organic),user_engagement,Google,Organic,,10,0,7/29/24
+2024-08-02,yahoo,organic,(organic),user_engagement,Yahoo,Organic,,1,0,7/29/24
+2024-08-02,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-03,google,cpc,(referral),eligibility_form_submission,Google,Paid,,6,0,7/29/24
+2024-08-03,(direct),(none),(direct),first_visit,Direct,Organic,,7,0,7/29/24
+2024-08-03,google,cpc,(organic),first_visit,Google,Paid,,7,0,7/29/24
+2024-08-03,google,organic,(organic),first_visit,Google,Organic,,6,0,7/29/24
+2024-08-03,google,cpc,(referral),first_visit,Google,Paid,,2,0,7/29/24
+2024-08-03,google,cpc,(referral),form_start,Google,Paid,,1,0,7/29/24
+2024-08-03,(direct),(none),(direct),page_view,Direct,Organic,,9,0,7/29/24
+2024-08-03,google,cpc,(organic),page_view,Google,Paid,,8,0,7/29/24
+2024-08-03,google,organic,(organic),page_view,Google,Organic,,31,0,7/29/24
+2024-08-03,google,cpc,(referral),page_view,Google,Paid,,2,0,7/29/24
+2024-08-03,(direct),(none),(direct),scroll,Direct,Organic,,1,0,7/29/24
+2024-08-03,google,cpc,(organic),scroll,Google,Paid,,2,0,7/29/24
+2024-08-03,google,organic,(organic),scroll,Google,Organic,,6,0,7/29/24
+2024-08-03,google,cpc,(referral),scroll,Google,Paid,,2,0,7/29/24
+2024-08-03,(direct),(none),(direct),session_start,Direct,Organic,8,8,0,7/29/24
+2024-08-03,google,cpc,(organic),session_start,Google,Paid,7,7,0,7/29/24
+2024-08-03,google,organic,(organic),session_start,Google,Organic,8,8,0,7/29/24
+2024-08-03,google,cpc,(referral),session_start,Google,Paid,2,2,0,7/29/24
+2024-08-03,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,7/29/24
+2024-08-03,google,cpc,(organic),user_engagement,Google,Paid,,4,0,7/29/24
+2024-08-03,google,organic,(organic),user_engagement,Google,Organic,,4,0,7/29/24
+2024-08-03,google,cpc,(referral),user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-04,(direct),(none),(direct),first_visit,Direct,Organic,,11,0,7/29/24
+2024-08-04,google,cpc,(organic),first_visit,Google,Paid,,1,0,7/29/24
+2024-08-04,bing,organic,(organic),first_visit,Bing,Organic,,1,0,7/29/24
+2024-08-04,google,organic,(organic),first_visit,Google,Organic,,11,0,7/29/24
+2024-08-04,yahoo,organic,(organic),first_visit,Yahoo,Organic,,1,0,7/29/24
+2024-08-04,google,cpc,(referral),first_visit,Google,Paid,,1,0,7/29/24
+2024-08-04,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,1,0,7/29/24
+2024-08-04,(direct),(none),(direct),page_view,Direct,Organic,,15,0,7/29/24
+2024-08-04,google,cpc,(organic),page_view,Google,Paid,,1,0,7/29/24
+2024-08-04,bing,organic,(organic),page_view,Bing,Organic,,2,0,7/29/24
+2024-08-04,google,organic,(organic),page_view,Google,Organic,,42,0,7/29/24
+2024-08-04,yahoo,organic,(organic),page_view,Yahoo,Organic,,1,0,7/29/24
+2024-08-04,google,cpc,(referral),page_view,Google,Paid,,1,0,7/29/24
+2024-08-04,google,cpc,DF - Leads - Search,page_view,Google,Paid,,1,0,7/29/24
+2024-08-04,(direct),(none),(direct),scroll,Direct,Organic,,3,0,7/29/24
+2024-08-04,google,organic,(organic),scroll,Google,Organic,,5,0,7/29/24
+2024-08-04,(direct),(none),(direct),session_start,Direct,Organic,12,12,0,7/29/24
+2024-08-04,google,cpc,(organic),session_start,Google,Paid,1,1,0,7/29/24
+2024-08-04,bing,organic,(organic),session_start,Bing,Organic,1,1,0,7/29/24
+2024-08-04,google,organic,(organic),session_start,Google,Organic,15,15,0,7/29/24
+2024-08-04,yahoo,organic,(organic),session_start,Yahoo,Organic,1,1,0,7/29/24
+2024-08-04,google,cpc,(referral),session_start,Google,Paid,1,1,0,7/29/24
+2024-08-04,google,cpc,DF - Leads - Search,session_start,Google,Paid,1,1,0,7/29/24
+2024-08-04,(direct),(none),(direct),user_engagement,Direct,Organic,,7,0,7/29/24
+2024-08-04,google,cpc,(organic),user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-04,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,7/29/24
+2024-08-04,google,organic,(organic),user_engagement,Google,Organic,,5,0,7/29/24
+2024-08-04,yahoo,organic,(organic),user_engagement,Yahoo,Organic,,1,0,7/29/24
+2024-08-04,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,7/29/24
+2024-08-05,google,organic,(organic),click,Google,Organic,,1,0,8/5/24
+2024-08-05,tagassistant.google.com,referral,(referral),click,Google,Organic,,1,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/5/24
+2024-08-05,tagassistant.google.com,referral,(referral),click_to_call_website,Google,Organic,,1,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/5/24
+2024-08-05,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,7,0,8/5/24
+2024-08-05,google,cpc,(referral),eligibility_form_submission,Google,Paid,,1,0,8/5/24
+2024-08-05,(direct),(none),(direct),first_visit,Direct,Organic,,14,0,8/5/24
+2024-08-05,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/5/24
+2024-08-05,google,cpc,(organic),first_visit,Google,Paid,,2,0,8/5/24
+2024-08-05,google,organic,(organic),first_visit,Google,Organic,,6,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,5,0,8/5/24
+2024-08-05,(direct),(none),(direct),form_start,Direct,Organic,,5,0,8/5/24
+2024-08-05,(direct),(none),(direct),page_view,Direct,Organic,,25,0,8/5/24
+2024-08-05,google,cpc,(not set),page_view,Google,Paid,,2,0,8/5/24
+2024-08-05,google,cpc,(organic),page_view,Google,Paid,,3,0,8/5/24
+2024-08-05,google,organic,(organic),page_view,Google,Organic,,20,0,8/5/24
+2024-08-05,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,3,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,page_view,Google,Paid,,6,0,8/5/24
+2024-08-05,(direct),(none),(direct),scroll,Direct,Organic,,6,0,8/5/24
+2024-08-05,google,cpc,(organic),scroll,Google,Paid,,2,0,8/5/24
+2024-08-05,google,organic,(organic),scroll,Google,Organic,,6,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/5/24
+2024-08-05,(direct),(none),(direct),session_start,Direct,Organic,20,20,0,8/5/24
+2024-08-05,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/5/24
+2024-08-05,google,cpc,(organic),session_start,Google,Paid,2,2,0,8/5/24
+2024-08-05,google,organic,(organic),session_start,Google,Organic,6,6,0,8/5/24
+2024-08-05,google,cpc,(referral),session_start,Google,Paid,1,1,0,8/5/24
+2024-08-05,tagassistant.google.com,referral,(referral),session_start,Google,Organic,2,2,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,session_start,Google,Paid,5,5,0,8/5/24
+2024-08-05,(direct),(none),(direct),user_engagement,Direct,Organic,,12,0,8/5/24
+2024-08-05,google,cpc,(not set),user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-05,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-05,google,organic,(organic),user_engagement,Google,Organic,,4,0,8/5/24
+2024-08-05,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,1,0,8/5/24
+2024-08-05,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-06,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,8,0,8/5/24
+2024-08-06,google,organic,(organic),eligibility_form_submission,Google,Organic,,2,0,8/5/24
+2024-08-06,(direct),(none),(direct),first_visit,Direct,Organic,,6,0,8/5/24
+2024-08-06,google,organic,(organic),first_visit,Google,Organic,,1,0,8/5/24
+2024-08-06,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/5/24
+2024-08-06,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,1,0,8/5/24
+2024-08-06,(direct),(none),(direct),form_start,Direct,Organic,,6,0,8/5/24
+2024-08-06,(direct),(none),(direct),page_view,Direct,Organic,,16,0,8/5/24
+2024-08-06,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,15,0,8/5/24
+2024-08-06,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/5/24
+2024-08-06,google,cpc,DF - Leads - Search,page_view,Google,Paid,,1,0,8/5/24
+2024-08-06,(direct),(none),(direct),scroll,Direct,Organic,,1,0,8/5/24
+2024-08-06,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,3,0,8/5/24
+2024-08-06,(direct),(none),(direct),session_start,Direct,Organic,12,12,0,8/5/24
+2024-08-06,google,organic,(organic),session_start,Google,Organic,2,2,0,8/5/24
+2024-08-06,tagassistant.google.com,referral,(referral),session_start,Google,Organic,2,2,0,8/5/24
+2024-08-06,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/5/24
+2024-08-06,google,cpc,DF - Leads - Search,session_start,Google,Paid,2,2,0,8/5/24
+2024-08-06,(direct),(none),(direct),user_engagement,Direct,Organic,,14,0,8/5/24
+2024-08-06,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,10,0,8/5/24
+2024-08-06,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-06,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-07,google,organic,(organic),click_to_call_website,Google,Organic,,3,0,8/5/24
+2024-08-07,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,1,0,8/5/24
+2024-08-07,(direct),(none),(direct),first_visit,Direct,Organic,,11,0,8/5/24
+2024-08-07,google,organic,(organic),first_visit,Google,Organic,,2,0,8/5/24
+2024-08-07,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,3,0,8/5/24
+2024-08-07,(direct),(none),(direct),form_start,Direct,Organic,,3,0,8/5/24
+2024-08-07,tagassistant.google.com,referral,(referral),form_start,Google,Organic,,5,0,8/5/24
+2024-08-07,(direct),(none),(direct),page_view,Direct,Organic,,37,0,8/5/24
+2024-08-07,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,24,0,8/5/24
+2024-08-07,google,cpc,DF - Leads - Search,page_view,Google,Paid,,3,0,8/5/24
+2024-08-07,(direct),(none),(direct),scroll,Direct,Organic,,8,0,8/5/24
+2024-08-07,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,4,0,8/5/24
+2024-08-07,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,8/5/24
+2024-08-07,(direct),(none),(direct),session_start,Direct,Organic,19,19,0,8/5/24
+2024-08-07,google,organic,(organic),session_start,Google,Organic,2,2,0,8/5/24
+2024-08-07,tagassistant.google.com,referral,(referral),session_start,Google,Organic,4,4,0,8/5/24
+2024-08-07,google,cpc,DF - Leads - Search,session_start,Google,Paid,3,3,0,8/5/24
+2024-08-07,(direct),(none),(direct),user_engagement,Direct,Organic,,20,0,8/5/24
+2024-08-07,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,22,0,8/5/24
+2024-08-07,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/5/24
+2024-08-08,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/5/24
+2024-08-08,(direct),(none),(direct),eligibility_form_submission,Direct,Organic,,6,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),eligibility_form_submission,Google,Organic,,1,0,8/5/24
+2024-08-08,(direct),(none),(direct),first_visit,Direct,Organic,,12,0,8/5/24
+2024-08-08,google,cpc,(not set),first_visit,Google,Paid,,2,0,8/5/24
+2024-08-08,google,cpc,(organic),first_visit,Google,Paid,,3,0,8/5/24
+2024-08-08,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/5/24
+2024-08-08,google,organic,(organic),first_visit,Google,Organic,,6,0,8/5/24
+2024-08-08,google,cpc,(referral),first_visit,Google,Paid,,1,0,8/5/24
+2024-08-08,mail.google.com,referral,(referral),first_visit,Google,Organic,,1,0,8/5/24
+2024-08-08,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,5,0,8/5/24
+2024-08-08,(direct),(none),(direct),form_start,Direct,Organic,,6,0,8/5/24
+2024-08-08,google,cpc,(not set),form_start,Google,Paid,,1,0,8/5/24
+2024-08-08,bing,organic,(organic),form_start,Bing,Organic,,1,0,8/5/24
+2024-08-08,mail.google.com,referral,(referral),form_start,Google,Organic,,1,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),form_start,Google,Organic,,3,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/5/24
+2024-08-08,(direct),(none),(direct),page_view,Direct,Organic,,29,0,8/5/24
+2024-08-08,google,cpc,(not set),page_view,Google,Paid,,3,0,8/5/24
+2024-08-08,google,cpc,(organic),page_view,Google,Paid,,4,0,8/5/24
+2024-08-08,bing,organic,(organic),page_view,Bing,Organic,,7,0,8/5/24
+2024-08-08,google,organic,(organic),page_view,Google,Organic,,13,0,8/5/24
+2024-08-08,google,cpc,(referral),page_view,Google,Paid,,1,0,8/5/24
+2024-08-08,mail.google.com,referral,(referral),page_view,Google,Organic,,1,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,12,0,8/5/24
+2024-08-08,google,cpc,DF - Brand,page_view,Google,Paid,,2,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,page_view,Google,Paid,,6,0,8/5/24
+2024-08-08,(direct),(none),(direct),scroll,Direct,Organic,,7,0,8/5/24
+2024-08-08,google,cpc,(not set),scroll,Google,Paid,,2,0,8/5/24
+2024-08-08,google,cpc,(organic),scroll,Google,Paid,,1,0,8/5/24
+2024-08-08,bing,organic,(organic),scroll,Bing,Organic,,3,0,8/5/24
+2024-08-08,google,organic,(organic),scroll,Google,Organic,,6,0,8/5/24
+2024-08-08,google,cpc,(referral),scroll,Google,Paid,,1,0,8/5/24
+2024-08-08,mail.google.com,referral,(referral),scroll,Google,Organic,,1,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),scroll,Google,Organic,,3,0,8/5/24
+2024-08-08,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/5/24
+2024-08-08,(direct),(none),(direct),session_start,Direct,Organic,22,22,0,8/5/24
+2024-08-08,google,cpc,(not set),session_start,Google,Paid,2,2,0,8/5/24
+2024-08-08,google,cpc,(organic),session_start,Google,Paid,4,4,0,8/5/24
+2024-08-08,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/5/24
+2024-08-08,google,organic,(organic),session_start,Google,Organic,8,8,0,8/5/24
+2024-08-08,google,cpc,(referral),session_start,Google,Paid,1,1,0,8/5/24
+2024-08-08,mail.google.com,referral,(referral),session_start,Google,Organic,1,1,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),session_start,Google,Organic,4,4,0,8/5/24
+2024-08-08,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,session_start,Google,Paid,5,5,0,8/5/24
+2024-08-08,(direct),(none),(direct),user_engagement,Direct,Organic,,15,0,8/5/24
+2024-08-08,google,cpc,(organic),user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-08,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/5/24
+2024-08-08,google,organic,(organic),user_engagement,Google,Organic,,10,0,8/5/24
+2024-08-08,google,cpc,(referral),user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-08,tagassistant.google.com,referral,(referral),user_engagement,Google,Organic,,8,0,8/5/24
+2024-08-08,google,cpc,DF - Brand,user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-08,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-09,(direct),(none),(direct),click,Direct,Organic,,1,0,8/5/24
+2024-08-09,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/5/24
+2024-08-09,(direct),(none),(direct),first_visit,Direct,Organic,,10,0,8/5/24
+2024-08-09,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/5/24
+2024-08-09,google,cpc,(organic),first_visit,Google,Paid,,5,0,8/5/24
+2024-08-09,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/5/24
+2024-08-09,duckduckgo,organic,(organic),first_visit,Other,Organic,,1,0,8/5/24
+2024-08-09,google,organic,(organic),first_visit,Google,Organic,,4,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,5,0,8/5/24
+2024-08-09,(direct),(none),(direct),form_start,Direct,Organic,,1,0,8/5/24
+2024-08-09,google,cpc,(organic),form_start,Google,Paid,,1,0,8/5/24
+2024-08-09,(direct),(none),(direct),page_view,Direct,Organic,,16,0,8/5/24
+2024-08-09,google,cpc,(not set),page_view,Google,Paid,,1,0,8/5/24
+2024-08-09,google,cpc,(organic),page_view,Google,Paid,,8,0,8/5/24
+2024-08-09,bing,organic,(organic),page_view,Bing,Organic,,3,0,8/5/24
+2024-08-09,duckduckgo,organic,(organic),page_view,Other,Organic,,2,0,8/5/24
+2024-08-09,google,organic,(organic),page_view,Google,Organic,,8,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,3,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Search,page_view,Google,Paid,,6,0,8/5/24
+2024-08-09,(direct),(none),(direct),scroll,Direct,Organic,,4,0,8/5/24
+2024-08-09,google,cpc,(not set),scroll,Google,Paid,,1,0,8/5/24
+2024-08-09,google,cpc,(organic),scroll,Google,Paid,,5,0,8/5/24
+2024-08-09,bing,organic,(organic),scroll,Bing,Organic,,3,0,8/5/24
+2024-08-09,google,organic,(organic),scroll,Google,Organic,,2,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,8/5/24
+2024-08-09,(direct),(none),(direct),session_start,Direct,Organic,15,15,0,8/5/24
+2024-08-09,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/5/24
+2024-08-09,google,cpc,(organic),session_start,Google,Paid,5,5,0,8/5/24
+2024-08-09,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/5/24
+2024-08-09,duckduckgo,organic,(organic),session_start,Other,Organic,1,1,0,8/5/24
+2024-08-09,google,organic,(organic),session_start,Google,Organic,7,7,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Search,session_start,Google,Paid,5,5,0,8/5/24
+2024-08-09,(direct),(none),(direct),user_engagement,Direct,Organic,,3,0,8/5/24
+2024-08-09,google,cpc,(organic),user_engagement,Google,Paid,,3,0,8/5/24
+2024-08-09,bing,organic,(organic),user_engagement,Bing,Organic,,3,0,8/5/24
+2024-08-09,duckduckgo,organic,(organic),user_engagement,Other,Organic,,1,0,8/5/24
+2024-08-09,google,organic,(organic),user_engagement,Google,Organic,,5,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-09,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,2,0,8/5/24
+2024-08-10,(direct),(none),(direct),first_visit,Direct,Organic,,5,0,8/5/24
+2024-08-10,google,cpc,(organic),first_visit,Google,Paid,,4,0,8/5/24
+2024-08-10,google,organic,(organic),first_visit,Google,Organic,,6,0,8/5/24
+2024-08-10,google,cpc,(referral),first_visit,Google,Paid,,1,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,12,0,8/5/24
+2024-08-10,(direct),(none),(direct),form_start,Direct,Organic,,1,0,8/5/24
+2024-08-10,google,organic,(organic),form_start,Google,Organic,,1,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,8/5/24
+2024-08-10,(direct),(none),(direct),page_view,Direct,Organic,,5,0,8/5/24
+2024-08-10,google,cpc,(organic),page_view,Google,Paid,,4,0,8/5/24
+2024-08-10,bing,organic,(organic),page_view,Bing,Organic,,1,0,8/5/24
+2024-08-10,google,organic,(organic),page_view,Google,Organic,,16,0,8/5/24
+2024-08-10,google,cpc,(referral),page_view,Google,Paid,,1,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,page_view,Google,Paid,,13,0,8/5/24
+2024-08-10,(direct),(none),(direct),scroll,Direct,Organic,,1,0,8/5/24
+2024-08-10,google,cpc,(organic),scroll,Google,Paid,,1,0,8/5/24
+2024-08-10,google,organic,(organic),scroll,Google,Organic,,5,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/5/24
+2024-08-10,(direct),(none),(direct),session_start,Direct,Organic,6,6,0,8/5/24
+2024-08-10,google,cpc,(organic),session_start,Google,Paid,4,4,0,8/5/24
+2024-08-10,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/5/24
+2024-08-10,google,organic,(organic),session_start,Google,Organic,8,8,0,8/5/24
+2024-08-10,google,cpc,(referral),session_start,Google,Paid,1,1,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,session_start,Google,Paid,13,13,0,8/5/24
+2024-08-10,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,8/5/24
+2024-08-10,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/5/24
+2024-08-10,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/5/24
+2024-08-10,google,organic,(organic),user_engagement,Google,Organic,,6,0,8/5/24
+2024-08-10,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,5,0,8/5/24
+2024-08-11,google,organic,(organic),click,Google,Organic,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/5/24
+2024-08-11,(direct),(none),(direct),first_visit,Direct,Organic,,9,0,8/5/24
+2024-08-11,google,cpc,(organic),first_visit,Google,Paid,,6,0,8/5/24
+2024-08-11,bing,organic,(organic),first_visit,Bing,Organic,,1,0,8/5/24
+2024-08-11,google,organic,(organic),first_visit,Google,Organic,,9,0,8/5/24
+2024-08-11,indeed.com,referral,(referral),first_visit,Other,Organic,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,7,0,8/5/24
+2024-08-11,google,cpc,(organic),form_start,Google,Paid,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/5/24
+2024-08-11,(direct),(none),(direct),page_view,Direct,Organic,,15,0,8/5/24
+2024-08-11,google,cpc,(organic),page_view,Google,Paid,,13,0,8/5/24
+2024-08-11,bing,organic,(organic),page_view,Bing,Organic,,1,0,8/5/24
+2024-08-11,google,organic,(organic),page_view,Google,Organic,,24,0,8/5/24
+2024-08-11,indeed.com,referral,(referral),page_view,Other,Organic,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,page_view,Google,Paid,,7,0,8/5/24
+2024-08-11,(direct),(none),(direct),scroll,Direct,Organic,,4,0,8/5/24
+2024-08-11,google,cpc,(organic),scroll,Google,Paid,,5,0,8/5/24
+2024-08-11,bing,organic,(organic),scroll,Bing,Organic,,1,0,8/5/24
+2024-08-11,google,organic,(organic),scroll,Google,Organic,,5,0,8/5/24
+2024-08-11,(direct),(none),(direct),session_start,Direct,Organic,11,11,0,8/5/24
+2024-08-11,google,cpc,(organic),session_start,Google,Paid,8,8,0,8/5/24
+2024-08-11,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/5/24
+2024-08-11,google,organic,(organic),session_start,Google,Organic,11,11,0,8/5/24
+2024-08-11,indeed.com,referral,(referral),session_start,Other,Organic,1,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,session_start,Google,Paid,7,7,0,8/5/24
+2024-08-11,(direct),(none),(direct),user_engagement,Direct,Organic,,6,0,8/5/24
+2024-08-11,google,cpc,(organic),user_engagement,Google,Paid,,2,0,8/5/24
+2024-08-11,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/5/24
+2024-08-11,google,organic,(organic),user_engagement,Google,Organic,,5,0,8/5/24
+2024-08-11,indeed.com,referral,(referral),user_engagement,Other,Organic,,1,0,8/5/24
+2024-08-11,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,5,0,8/5/24
+2024-08-12,google,organic,(organic),click,Google,Organic,,3,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/12/24
+2024-08-12,google,cpc,(organic),file_download,Google,Paid,,3,0,8/12/24
+2024-08-12,google,organic,(organic),file_download,Google,Organic,,4,0,8/12/24
+2024-08-12,(direct),(none),(direct),first_visit,Direct,Organic,,8,0,8/12/24
+2024-08-12,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/12/24
+2024-08-12,google,cpc,(organic),first_visit,Google,Paid,,5,0,8/12/24
+2024-08-12,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/12/24
+2024-08-12,google,organic,(organic),first_visit,Google,Organic,,19,0,8/12/24
+2024-08-12,mulliganfunding.lightning.force.com,referral,(referral),first_visit,Other,Organic,,1,0,8/12/24
+2024-08-12,yelp.com,referral,(referral),first_visit,Other,Organic,,1,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,8/12/24
+2024-08-12,(not set),(not set),(not set),form_start,Other,Paid,,1,0,8/12/24
+2024-08-12,google,organic,(organic),form_start,Google,Organic,,2,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/12/24
+2024-08-12,(not set),(not set),(not set),form_submit,Other,Paid,,1,0,8/12/24
+2024-08-12,(direct),(none),(direct),page_view,Direct,Organic,,16,0,8/12/24
+2024-08-12,google,cpc,(not set),page_view,Google,Paid,,3,0,8/12/24
+2024-08-12,google,cpc,(organic),page_view,Google,Paid,,8,0,8/12/24
+2024-08-12,bing,organic,(organic),page_view,Bing,Organic,,3,0,8/12/24
+2024-08-12,google,organic,(organic),page_view,Google,Organic,,49,0,8/12/24
+2024-08-12,mulliganfunding.lightning.force.com,referral,(referral),page_view,Other,Organic,,5,0,8/12/24
+2024-08-12,yelp.com,referral,(referral),page_view,Other,Organic,,1,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,page_view,Google,Paid,,19,0,8/12/24
+2024-08-12,(direct),(none),(direct),scroll,Direct,Organic,,3,0,8/12/24
+2024-08-12,google,cpc,(organic),scroll,Google,Paid,,2,0,8/12/24
+2024-08-12,bing,organic,(organic),scroll,Bing,Organic,,1,0,8/12/24
+2024-08-12,google,organic,(organic),scroll,Google,Organic,,17,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,8/12/24
+2024-08-12,(direct),(none),(direct),session_start,Direct,Organic,13,13,0,8/12/24
+2024-08-12,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/12/24
+2024-08-12,google,cpc,(organic),session_start,Google,Paid,6,6,0,8/12/24
+2024-08-12,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/12/24
+2024-08-12,google,organic,(organic),session_start,Google,Organic,26,26,0,8/12/24
+2024-08-12,mulliganfunding.lightning.force.com,referral,(referral),session_start,Other,Organic,1,1,0,8/12/24
+2024-08-12,yelp.com,referral,(referral),session_start,Other,Organic,1,1,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,session_start,Google,Paid,17,17,0,8/12/24
+2024-08-12,(direct),(none),(direct),user_engagement,Direct,Organic,,7,0,8/12/24
+2024-08-12,(not set),(not set),(not set),user_engagement,Other,Paid,,1,0,8/12/24
+2024-08-12,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-12,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/12/24
+2024-08-12,google,organic,(organic),user_engagement,Google,Organic,,12,0,8/12/24
+2024-08-12,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,9,0,8/12/24
+2024-08-13,(direct),(none),(direct),click,Direct,Organic,,2,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,2,0,8/12/24
+2024-08-13,(direct),(none),(direct),file_download,Direct,Organic,,1,0,8/12/24
+2024-08-13,(direct),(none),(direct),first_visit,Direct,Organic,,12,0,8/12/24
+2024-08-13,google,cpc,(organic),first_visit,Google,Paid,,6,0,8/12/24
+2024-08-13,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/12/24
+2024-08-13,google,organic,(organic),first_visit,Google,Organic,,12,0,8/12/24
+2024-08-13,yahoo,organic,(organic),first_visit,Yahoo,Organic,,3,0,8/12/24
+2024-08-13,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,13,0,8/12/24
+2024-08-13,(direct),(none),(direct),form_start,Direct,Organic,,8,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,8/12/24
+2024-08-13,(direct),(none),(direct),page_view,Direct,Organic,,25,0,8/12/24
+2024-08-13,google,cpc,(organic),page_view,Google,Paid,,9,0,8/12/24
+2024-08-13,bing,organic,(organic),page_view,Bing,Organic,,2,0,8/12/24
+2024-08-13,google,organic,(organic),page_view,Google,Organic,,27,0,8/12/24
+2024-08-13,yahoo,organic,(organic),page_view,Yahoo,Organic,,6,0,8/12/24
+2024-08-13,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,page_view,Google,Paid,,13,0,8/12/24
+2024-08-13,(direct),(none),(direct),scroll,Direct,Organic,,11,0,8/12/24
+2024-08-13,google,cpc,(organic),scroll,Google,Paid,,2,0,8/12/24
+2024-08-13,bing,organic,(organic),scroll,Bing,Organic,,1,0,8/12/24
+2024-08-13,google,organic,(organic),scroll,Google,Organic,,7,0,8/12/24
+2024-08-13,yahoo,organic,(organic),scroll,Yahoo,Organic,,3,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,8/12/24
+2024-08-13,(direct),(none),(direct),session_start,Direct,Organic,21,21,0,8/12/24
+2024-08-13,google,cpc,(organic),session_start,Google,Paid,7,7,0,8/12/24
+2024-08-13,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/12/24
+2024-08-13,google,organic,(organic),session_start,Google,Organic,17,17,0,8/12/24
+2024-08-13,yahoo,organic,(organic),session_start,Yahoo,Organic,3,3,0,8/12/24
+2024-08-13,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,session_start,Google,Paid,14,14,0,8/12/24
+2024-08-13,(direct),(none),(direct),user_engagement,Direct,Organic,,12,0,8/12/24
+2024-08-13,google,cpc,(organic),user_engagement,Google,Paid,,2,0,8/12/24
+2024-08-13,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/12/24
+2024-08-13,google,organic,(organic),user_engagement,Google,Organic,,5,0,8/12/24
+2024-08-13,yahoo,organic,(organic),user_engagement,Yahoo,Organic,,4,0,8/12/24
+2024-08-13,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,8/12/24
+2024-08-14,google,organic,(organic),click,Google,Organic,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/12/24
+2024-08-14,(direct),(none),(direct),first_visit,Direct,Organic,,7,0,8/12/24
+2024-08-14,google,cpc,(organic),first_visit,Google,Paid,,3,0,8/12/24
+2024-08-14,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/12/24
+2024-08-14,google,organic,(organic),first_visit,Google,Organic,,13,0,8/12/24
+2024-08-14,facebook.com,referral,(referral),first_visit,Other,Organic,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,11,0,8/12/24
+2024-08-14,(direct),(none),(direct),form_start,Direct,Organic,,4,0,8/12/24
+2024-08-14,bing,organic,(organic),form_start,Bing,Organic,,2,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/12/24
+2024-08-14,(direct),(none),(direct),page_view,Direct,Organic,,19,0,8/12/24
+2024-08-14,google,cpc,(not set),page_view,Google,Paid,,1,0,8/12/24
+2024-08-14,google,cpc,(organic),page_view,Google,Paid,,3,0,8/12/24
+2024-08-14,bing,organic,(organic),page_view,Bing,Organic,,3,0,8/12/24
+2024-08-14,google,organic,(organic),page_view,Google,Organic,,45,0,8/12/24
+2024-08-14,facebook.com,referral,(referral),page_view,Other,Organic,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,page_view,Google,Paid,,13,0,8/12/24
+2024-08-14,(direct),(none),(direct),scroll,Direct,Organic,,7,0,8/12/24
+2024-08-14,bing,organic,(organic),scroll,Bing,Organic,,1,0,8/12/24
+2024-08-14,google,organic,(organic),scroll,Google,Organic,,8,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,8/12/24
+2024-08-14,(direct),(none),(direct),session_start,Direct,Organic,18,18,0,8/12/24
+2024-08-14,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/12/24
+2024-08-14,google,cpc,(organic),session_start,Google,Paid,3,3,0,8/12/24
+2024-08-14,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/12/24
+2024-08-14,google,organic,(organic),session_start,Google,Organic,19,19,0,8/12/24
+2024-08-14,facebook.com,referral,(referral),session_start,Other,Organic,1,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,session_start,Google,Paid,11,11,0,8/12/24
+2024-08-14,(direct),(none),(direct),user_engagement,Direct,Organic,,8,0,8/12/24
+2024-08-14,google,cpc,(not set),user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-14,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-14,bing,organic,(organic),user_engagement,Bing,Organic,,2,0,8/12/24
+2024-08-14,google,organic,(organic),user_engagement,Google,Organic,,10,0,8/12/24
+2024-08-14,facebook.com,referral,(referral),user_engagement,Other,Organic,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-14,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,9,0,8/12/24
+2024-08-15,google,organic,(organic),click,Google,Organic,,3,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,click,Google,Paid,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/12/24
+2024-08-15,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/12/24
+2024-08-15,google,organic,(organic),click_to_call_website,Google,Organic,,2,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,click_to_call_website,Google,Paid,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/12/24
+2024-08-15,(direct),(none),(direct),first_visit,Direct,Organic,,8,0,8/12/24
+2024-08-15,google,cpc,(organic),first_visit,Google,Paid,,2,0,8/12/24
+2024-08-15,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/12/24
+2024-08-15,google,organic,(organic),first_visit,Google,Organic,,8,0,8/12/24
+2024-08-15,ycswebagency.com,referral,(referral),first_visit,Other,Organic,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,8,0,8/12/24
+2024-08-15,(direct),(none),(direct),form_start,Direct,Organic,,4,0,8/12/24
+2024-08-15,(direct),(none),(direct),page_view,Direct,Organic,,23,0,8/12/24
+2024-08-15,google,cpc,(organic),page_view,Google,Paid,,3,0,8/12/24
+2024-08-15,bing,organic,(organic),page_view,Bing,Organic,,3,0,8/12/24
+2024-08-15,google,organic,(organic),page_view,Google,Organic,,22,0,8/12/24
+2024-08-15,ycswebagency.com,referral,(referral),page_view,Other,Organic,,2,0,8/12/24
+2024-08-15,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,3,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,page_view,Google,Paid,,9,0,8/12/24
+2024-08-15,(direct),(none),(direct),scroll,Direct,Organic,,6,0,8/12/24
+2024-08-15,bing,organic,(organic),scroll,Bing,Organic,,3,0,8/12/24
+2024-08-15,google,organic,(organic),scroll,Google,Organic,,9,0,8/12/24
+2024-08-15,ycswebagency.com,referral,(referral),scroll,Other,Organic,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,8/12/24
+2024-08-15,(direct),(none),(direct),session_start,Direct,Organic,19,19,0,8/12/24
+2024-08-15,google,cpc,(organic),session_start,Google,Paid,2,2,0,8/12/24
+2024-08-15,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/12/24
+2024-08-15,google,organic,(organic),session_start,Google,Organic,13,13,0,8/12/24
+2024-08-15,ycswebagency.com,referral,(referral),session_start,Other,Organic,1,1,0,8/12/24
+2024-08-15,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,session_start,Google,Paid,9,9,0,8/12/24
+2024-08-15,(direct),(none),(direct),user_engagement,Direct,Organic,,10,0,8/12/24
+2024-08-15,bing,organic,(organic),user_engagement,Bing,Organic,,2,0,8/12/24
+2024-08-15,google,organic,(organic),user_engagement,Google,Organic,,8,0,8/12/24
+2024-08-15,ycswebagency.com,referral,(referral),user_engagement,Other,Organic,,1,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,8/12/24
+2024-08-15,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/12/24
+2024-08-16,bing,organic,(organic),click,Bing,Organic,,2,0,8/12/24
+2024-08-16,(direct),(none),(direct),first_visit,Direct,Organic,,13,0,8/12/24
+2024-08-16,google,cpc,(organic),first_visit,Google,Paid,,3,0,8/12/24
+2024-08-16,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/12/24
+2024-08-16,google,organic,(organic),first_visit,Google,Organic,,7,0,8/12/24
+2024-08-16,facebook.com,referral,(referral),first_visit,Other,Organic,,1,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,17,0,8/12/24
+2024-08-16,(direct),(none),(direct),form_start,Direct,Organic,,5,0,8/12/24
+2024-08-16,bing,organic,(organic),form_start,Bing,Organic,,1,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/12/24
+2024-08-16,(direct),(none),(direct),page_view,Direct,Organic,,24,0,8/12/24
+2024-08-16,google,cpc,(organic),page_view,Google,Paid,,3,0,8/12/24
+2024-08-16,bing,organic,(organic),page_view,Bing,Organic,,10,0,8/12/24
+2024-08-16,google,organic,(organic),page_view,Google,Organic,,24,0,8/12/24
+2024-08-16,facebook.com,referral,(referral),page_view,Other,Organic,,1,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,page_view,Google,Paid,,18,0,8/12/24
+2024-08-16,(direct),(none),(direct),scroll,Direct,Organic,,6,0,8/12/24
+2024-08-16,bing,organic,(organic),scroll,Bing,Organic,,2,0,8/12/24
+2024-08-16,google,organic,(organic),scroll,Google,Organic,,9,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,scroll,Google,Paid,,1,0,8/12/24
+2024-08-16,(direct),(none),(direct),session_start,Direct,Organic,17,17,0,8/12/24
+2024-08-16,google,cpc,(organic),session_start,Google,Paid,3,3,0,8/12/24
+2024-08-16,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/12/24
+2024-08-16,google,organic,(organic),session_start,Google,Organic,11,11,0,8/12/24
+2024-08-16,facebook.com,referral,(referral),session_start,Other,Organic,1,1,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,session_start,Google,Paid,18,18,0,8/12/24
+2024-08-16,(direct),(none),(direct),user_engagement,Direct,Organic,,6,0,8/12/24
+2024-08-16,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-16,bing,organic,(organic),user_engagement,Bing,Organic,,2,0,8/12/24
+2024-08-16,google,organic,(organic),user_engagement,Google,Organic,,10,0,8/12/24
+2024-08-16,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/12/24
+2024-08-17,google,organic,(organic),file_download,Google,Organic,,1,0,8/12/24
+2024-08-17,(direct),(none),(direct),first_visit,Direct,Organic,,6,0,8/12/24
+2024-08-17,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/12/24
+2024-08-17,google,cpc,(organic),first_visit,Google,Paid,,5,0,8/12/24
+2024-08-17,bing,organic,(organic),first_visit,Bing,Organic,,1,0,8/12/24
+2024-08-17,google,organic,(organic),first_visit,Google,Organic,,10,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,12,0,8/12/24
+2024-08-17,bing,organic,(organic),form_start,Bing,Organic,,1,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,8/12/24
+2024-08-17,(direct),(none),(direct),page_view,Direct,Organic,,9,0,8/12/24
+2024-08-17,google,cpc,(not set),page_view,Google,Paid,,1,0,8/12/24
+2024-08-17,google,cpc,(organic),page_view,Google,Paid,,6,0,8/12/24
+2024-08-17,bing,organic,(organic),page_view,Bing,Organic,,1,0,8/12/24
+2024-08-17,google,organic,(organic),page_view,Google,Organic,,20,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,page_view,Google,Paid,,13,0,8/12/24
+2024-08-17,(direct),(none),(direct),scroll,Direct,Organic,,2,0,8/12/24
+2024-08-17,google,cpc,(organic),scroll,Google,Paid,,3,0,8/12/24
+2024-08-17,google,organic,(organic),scroll,Google,Organic,,8,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/12/24
+2024-08-17,(direct),(none),(direct),session_start,Direct,Organic,10,10,0,8/12/24
+2024-08-17,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/12/24
+2024-08-17,google,cpc,(organic),session_start,Google,Paid,5,5,0,8/12/24
+2024-08-17,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/12/24
+2024-08-17,google,organic,(organic),session_start,Google,Organic,14,14,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,session_start,Google,Paid,13,13,0,8/12/24
+2024-08-17,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,8/12/24
+2024-08-17,google,cpc,(organic),user_engagement,Google,Paid,,4,0,8/12/24
+2024-08-17,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/12/24
+2024-08-17,google,organic,(organic),user_engagement,Google,Organic,,15,0,8/12/24
+2024-08-17,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,3,0,8/12/24
+2024-08-18,google,cpc,(organic),click,Google,Paid,,2,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,2,0,8/12/24
+2024-08-18,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,8/12/24
+2024-08-18,google,cpc,(organic),first_visit,Google,Paid,,4,0,8/12/24
+2024-08-18,bing,organic,(organic),first_visit,Bing,Organic,,1,0,8/12/24
+2024-08-18,google,organic,(organic),first_visit,Google,Organic,,4,0,8/12/24
+2024-08-18,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,13,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,form_start,Google,Paid,,2,0,8/12/24
+2024-08-18,(direct),(none),(direct),page_view,Direct,Organic,,13,0,8/12/24
+2024-08-18,google,cpc,(organic),page_view,Google,Paid,,4,0,8/12/24
+2024-08-18,bing,organic,(organic),page_view,Bing,Organic,,1,0,8/12/24
+2024-08-18,google,organic,(organic),page_view,Google,Organic,,6,0,8/12/24
+2024-08-18,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,page_view,Google,Paid,,15,0,8/12/24
+2024-08-18,(direct),(none),(direct),scroll,Direct,Organic,,5,0,8/12/24
+2024-08-18,(not set),(not set),(not set),scroll,Other,Paid,,1,0,8/12/24
+2024-08-18,google,organic,(organic),scroll,Google,Organic,,1,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,scroll,Google,Paid,,5,0,8/12/24
+2024-08-18,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,8/12/24
+2024-08-18,google,cpc,(organic),session_start,Google,Paid,4,4,0,8/12/24
+2024-08-18,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/12/24
+2024-08-18,google,organic,(organic),session_start,Google,Organic,5,5,0,8/12/24
+2024-08-18,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,session_start,Google,Paid,15,15,0,8/12/24
+2024-08-18,(direct),(none),(direct),user_engagement,Direct,Organic,,2,0,8/12/24
+2024-08-18,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-18,google,organic,(organic),user_engagement,Google,Organic,,2,0,8/12/24
+2024-08-18,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,8/12/24
+2024-08-18,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,6,0,8/12/24
+2024-08-19,(direct),(none),(direct),click,Direct,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,(organic),click,Google,Paid,,2,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,click,Google,Paid,,2,0,8/19/24
+2024-08-19,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,(organic),click_to_call_website,Google,Paid,,2,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,2,0,8/19/24
+2024-08-19,google,organic,(organic),file_download,Google,Organic,,1,0,8/19/24
+2024-08-19,(direct),(none),(direct),first_visit,Direct,Organic,,12,0,8/19/24
+2024-08-19,google,cpc,(organic),first_visit,Google,Paid,,6,0,8/19/24
+2024-08-19,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/19/24
+2024-08-19,google,organic,(organic),first_visit,Google,Organic,,10,0,8/19/24
+2024-08-19,indeed.com,referral,(referral),first_visit,Other,Organic,,1,0,8/19/24
+2024-08-19,m.facebook.com,referral,(referral),first_visit,Other,Organic,,1,0,8/19/24
+2024-08-19,statics.teams.cdn.office.net,referral,(referral),first_visit,Other,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,13,0,8/19/24
+2024-08-19,(direct),(none),(direct),form_start,Direct,Organic,,5,0,8/19/24
+2024-08-19,google,cpc,(organic),form_start,Google,Paid,,1,0,8/19/24
+2024-08-19,bing,organic,(organic),form_start,Bing,Organic,,1,0,8/19/24
+2024-08-19,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/19/24
+2024-08-19,(direct),(none),(direct),page_view,Direct,Organic,,41,0,8/19/24
+2024-08-19,google,cpc,(organic),page_view,Google,Paid,,7,0,8/19/24
+2024-08-19,bing,organic,(organic),page_view,Bing,Organic,,2,0,8/19/24
+2024-08-19,google,organic,(organic),page_view,Google,Organic,,28,0,8/19/24
+2024-08-19,indeed.com,referral,(referral),page_view,Other,Organic,,1,0,8/19/24
+2024-08-19,m.facebook.com,referral,(referral),page_view,Other,Organic,,1,0,8/19/24
+2024-08-19,statics.teams.cdn.office.net,referral,(referral),page_view,Other,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,page_view,Google,Paid,,17,0,8/19/24
+2024-08-19,(direct),(none),(direct),scroll,Direct,Organic,,13,0,8/19/24
+2024-08-19,google,cpc,(organic),scroll,Google,Paid,,2,0,8/19/24
+2024-08-19,bing,organic,(organic),scroll,Bing,Organic,,1,0,8/19/24
+2024-08-19,google,organic,(organic),scroll,Google,Organic,,11,0,8/19/24
+2024-08-19,statics.teams.cdn.office.net,referral,(referral),scroll,Other,Organic,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/19/24
+2024-08-19,(direct),(none),(direct),session_start,Direct,Organic,23,23,0,8/19/24
+2024-08-19,google,cpc,(organic),session_start,Google,Paid,6,6,0,8/19/24
+2024-08-19,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/19/24
+2024-08-19,google,organic,(organic),session_start,Google,Organic,14,14,0,8/19/24
+2024-08-19,indeed.com,referral,(referral),session_start,Other,Organic,1,1,0,8/19/24
+2024-08-19,m.facebook.com,referral,(referral),session_start,Other,Organic,1,1,0,8/19/24
+2024-08-19,statics.teams.cdn.office.net,referral,(referral),session_start,Other,Organic,1,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,session_start,Google,Paid,14,14,0,8/19/24
+2024-08-19,(direct),(none),(direct),user_engagement,Direct,Organic,,11,0,8/19/24
+2024-08-19,google,cpc,(organic),user_engagement,Google,Paid,,4,0,8/19/24
+2024-08-19,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/19/24
+2024-08-19,google,organic,(organic),user_engagement,Google,Organic,,5,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,8/19/24
+2024-08-19,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,8,0,8/19/24
+2024-08-20,bing,organic,(organic),click,Bing,Organic,,1,0,8/19/24
+2024-08-20,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,eligibility_form_submission,Google,Paid,,1,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,eligibility_form_submission,Google,Paid,,1,0,8/19/24
+2024-08-20,google,organic,(organic),file_download,Google,Organic,,1,0,8/19/24
+2024-08-20,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,8/19/24
+2024-08-20,google,cpc,(organic),first_visit,Google,Paid,,7,0,8/19/24
+2024-08-20,google,organic,(organic),first_visit,Google,Organic,,13,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,10,0,8/19/24
+2024-08-20,(direct),(none),(direct),form_start,Direct,Organic,,1,0,8/19/24
+2024-08-20,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,form_start,Google,Paid,,1,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,form_start,Google,Paid,,1,0,8/19/24
+2024-08-20,(direct),(none),(direct),page_view,Direct,Organic,,5,0,8/19/24
+2024-08-20,google,cpc,(organic),page_view,Google,Paid,,9,0,8/19/24
+2024-08-20,bing,organic,(organic),page_view,Bing,Organic,,2,0,8/19/24
+2024-08-20,google,organic,(organic),page_view,Google,Organic,,33,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,page_view,Google,Paid,,2,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,5,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Search,page_view,Google,Paid,,12,0,8/19/24
+2024-08-20,(direct),(none),(direct),scroll,Direct,Organic,,1,0,8/19/24
+2024-08-20,google,cpc,(organic),scroll,Google,Paid,,1,0,8/19/24
+2024-08-20,google,organic,(organic),scroll,Google,Organic,,7,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,scroll,Google,Paid,,1,0,8/19/24
+2024-08-20,(direct),(none),(direct),session_start,Direct,Organic,4,4,0,8/19/24
+2024-08-20,google,cpc,(organic),session_start,Google,Paid,7,7,0,8/19/24
+2024-08-20,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/19/24
+2024-08-20,google,organic,(organic),session_start,Google,Organic,15,15,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Search,session_start,Google,Paid,11,11,0,8/19/24
+2024-08-20,(direct),(none),(direct),user_engagement,Direct,Organic,,1,0,8/19/24
+2024-08-20,google,cpc,(organic),user_engagement,Google,Paid,,5,0,8/19/24
+2024-08-20,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/19/24
+2024-08-20,google,organic,(organic),user_engagement,Google,Organic,,9,0,8/19/24
+2024-08-20,google,cpc,DF - Brand,user_engagement,Google,Paid,,2,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,8/19/24
+2024-08-20,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,8/19/24
+2024-08-21,google,organic,(organic),click,Google,Organic,,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/19/24
+2024-08-21,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,3,0,8/19/24
+2024-08-21,(direct),(none),(direct),first_visit,Direct,Organic,,8,0,8/19/24
+2024-08-21,google,cpc,(organic),first_visit,Google,Paid,,3,0,8/19/24
+2024-08-21,google,organic,(organic),first_visit,Google,Organic,,18,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,3,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,19,0,8/19/24
+2024-08-21,(direct),(none),(direct),form_start,Direct,Organic,,2,0,8/19/24
+2024-08-21,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,8/19/24
+2024-08-21,(direct),(none),(direct),page_view,Direct,Organic,,23,0,8/19/24
+2024-08-21,google,cpc,(organic),page_view,Google,Paid,,7,0,8/19/24
+2024-08-21,google,organic,(organic),page_view,Google,Organic,,38,0,8/19/24
+2024-08-21,tagassistant.google.com,referral,(referral),page_view,Google,Organic,,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,3,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,page_view,Google,Paid,,19,0,8/19/24
+2024-08-21,(direct),(none),(direct),scroll,Direct,Organic,,5,0,8/19/24
+2024-08-21,google,cpc,(organic),scroll,Google,Paid,,2,0,8/19/24
+2024-08-21,google,organic,(organic),scroll,Google,Organic,,13,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/19/24
+2024-08-21,(direct),(none),(direct),session_start,Direct,Organic,11,11,0,8/19/24
+2024-08-21,google,cpc,(organic),session_start,Google,Paid,3,3,0,8/19/24
+2024-08-21,google,organic,(organic),session_start,Google,Organic,22,22,0,8/19/24
+2024-08-21,tagassistant.google.com,referral,(referral),session_start,Google,Organic,1,1,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,3,3,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,session_start,Google,Paid,19,19,0,8/19/24
+2024-08-21,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,8/19/24
+2024-08-21,google,cpc,(organic),user_engagement,Google,Paid,,1,0,8/19/24
+2024-08-21,google,organic,(organic),user_engagement,Google,Organic,,13,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,2,0,8/19/24
+2024-08-21,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,8/19/24
+2024-08-22,google,organic,(organic),click,Google,Organic,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/19/24
+2024-08-22,google,organic,(organic),click_to_call_website,Google,Organic,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,3,0,8/19/24
+2024-08-22,(direct),(none),(direct),first_visit,Direct,Organic,,11,0,8/19/24
+2024-08-22,google,cpc,(not set),first_visit,Google,Paid,,2,0,8/19/24
+2024-08-22,google,cpc,(organic),first_visit,Google,Paid,,5,0,8/19/24
+2024-08-22,bing,organic,(organic),first_visit,Bing,Organic,,3,0,8/19/24
+2024-08-22,google,organic,(organic),first_visit,Google,Organic,,9,0,8/19/24
+2024-08-22,google,cpc,(referral),first_visit,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,15,0,8/19/24
+2024-08-22,(direct),(none),(direct),form_start,Direct,Organic,,3,0,8/19/24
+2024-08-22,google,cpc,(not set),form_start,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,(organic),form_start,Google,Paid,,1,0,8/19/24
+2024-08-22,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,form_start,Google,Paid,,3,0,8/19/24
+2024-08-22,(direct),(none),(direct),page_view,Direct,Organic,,23,0,8/19/24
+2024-08-22,google,cpc,(not set),page_view,Google,Paid,,4,0,8/19/24
+2024-08-22,google,cpc,(organic),page_view,Google,Paid,,6,0,8/19/24
+2024-08-22,bing,organic,(organic),page_view,Bing,Organic,,6,0,8/19/24
+2024-08-22,google,organic,(organic),page_view,Google,Organic,,15,0,8/19/24
+2024-08-22,google,cpc,(referral),page_view,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,page_view,Google,Paid,,16,0,8/19/24
+2024-08-22,(direct),(none),(direct),scroll,Direct,Organic,,4,0,8/19/24
+2024-08-22,google,cpc,(not set),scroll,Google,Paid,,1,0,8/19/24
+2024-08-22,google,cpc,(organic),scroll,Google,Paid,,3,0,8/19/24
+2024-08-22,bing,organic,(organic),scroll,Bing,Organic,,2,0,8/19/24
+2024-08-22,google,organic,(organic),scroll,Google,Organic,,8,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,scroll,Google,Paid,,3,0,8/19/24
+2024-08-22,(direct),(none),(direct),session_start,Direct,Organic,17,17,0,8/19/24
+2024-08-22,google,cpc,(not set),session_start,Google,Paid,2,2,0,8/19/24
+2024-08-22,google,cpc,(organic),session_start,Google,Paid,6,6,0,8/19/24
+2024-08-22,bing,organic,(organic),session_start,Bing,Organic,3,3,0,8/19/24
+2024-08-22,google,organic,(organic),session_start,Google,Organic,9,9,0,8/19/24
+2024-08-22,google,cpc,(referral),session_start,Google,Paid,1,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,session_start,Google,Paid,16,16,0,8/19/24
+2024-08-22,(direct),(none),(direct),user_engagement,Direct,Organic,,4,0,8/19/24
+2024-08-22,google,cpc,(organic),user_engagement,Google,Paid,,5,0,8/19/24
+2024-08-22,bing,organic,(organic),user_engagement,Bing,Organic,,4,0,8/19/24
+2024-08-22,google,organic,(organic),user_engagement,Google,Organic,,4,0,8/19/24
+2024-08-22,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,7,0,8/19/24
+2024-08-23,(direct),(none),(direct),click,Direct,Organic,,1,0,8/19/24
+2024-08-23,google,cpc,(organic),click,Google,Paid,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,click,Google,Paid,,1,0,8/19/24
+2024-08-23,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/19/24
+2024-08-23,google,cpc,(organic),click_to_call_website,Google,Paid,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,click_to_call_website,Google,Paid,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/19/24
+2024-08-23,(direct),(none),(direct),first_visit,Direct,Organic,,2,0,8/19/24
+2024-08-23,google,cpc,(organic),first_visit,Google,Paid,,7,0,8/19/24
+2024-08-23,google,organic,(organic),first_visit,Google,Organic,,5,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,2,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,10,0,8/19/24
+2024-08-23,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/19/24
+2024-08-23,(direct),(none),(direct),page_view,Direct,Organic,,6,0,8/19/24
+2024-08-23,google,cpc,(organic),page_view,Google,Paid,,9,0,8/19/24
+2024-08-23,google,organic,(organic),page_view,Google,Organic,,14,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,2,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,page_view,Google,Paid,,12,0,8/19/24
+2024-08-23,(direct),(none),(direct),scroll,Direct,Organic,,3,0,8/19/24
+2024-08-23,google,cpc,(organic),scroll,Google,Paid,,3,0,8/19/24
+2024-08-23,google,organic,(organic),scroll,Google,Organic,,2,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Call Only,scroll,Google,Paid,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/19/24
+2024-08-23,(direct),(none),(direct),session_start,Direct,Organic,9,9,0,8/19/24
+2024-08-23,google,cpc,(organic),session_start,Google,Paid,8,8,0,8/19/24
+2024-08-23,google,organic,(organic),session_start,Google,Organic,10,10,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,2,2,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,session_start,Google,Paid,11,11,0,8/19/24
+2024-08-23,(direct),(none),(direct),user_engagement,Direct,Organic,,5,0,8/19/24
+2024-08-23,google,cpc,(organic),user_engagement,Google,Paid,,4,0,8/19/24
+2024-08-23,google,organic,(organic),user_engagement,Google,Organic,,2,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Call Only,user_engagement,Google,Paid,,1,0,8/19/24
+2024-08-23,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/19/24
+2024-08-24,google,organic,(organic),click,Google,Organic,,1,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,eligibility_form_submission,Google,Paid,,1,0,8/19/24
+2024-08-24,(direct),(none),(direct),first_visit,Direct,Organic,,3,0,8/19/24
+2024-08-24,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/19/24
+2024-08-24,google,cpc,(organic),first_visit,Google,Paid,,5,0,8/19/24
+2024-08-24,bing,organic,(organic),first_visit,Bing,Organic,,1,0,8/19/24
+2024-08-24,google,organic,(organic),first_visit,Google,Organic,,5,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,11,0,8/19/24
+2024-08-24,(direct),(none),(direct),form_start,Direct,Organic,,1,0,8/19/24
+2024-08-24,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/19/24
+2024-08-24,(direct),(none),(direct),page_view,Direct,Organic,,9,0,8/19/24
+2024-08-24,google,cpc,(not set),page_view,Google,Paid,,1,0,8/19/24
+2024-08-24,google,cpc,(organic),page_view,Google,Paid,,11,0,8/19/24
+2024-08-24,bing,organic,(organic),page_view,Bing,Organic,,2,0,8/19/24
+2024-08-24,google,organic,(organic),page_view,Google,Organic,,15,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,page_view,Google,Paid,,12,0,8/19/24
+2024-08-24,(direct),(none),(direct),scroll,Direct,Organic,,2,0,8/19/24
+2024-08-24,google,cpc,(organic),scroll,Google,Paid,,2,0,8/19/24
+2024-08-24,google,organic,(organic),scroll,Google,Organic,,3,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/19/24
+2024-08-24,(direct),(none),(direct),session_start,Direct,Organic,5,5,0,8/19/24
+2024-08-24,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/19/24
+2024-08-24,google,cpc,(organic),session_start,Google,Paid,5,5,0,8/19/24
+2024-08-24,bing,organic,(organic),session_start,Bing,Organic,1,1,0,8/19/24
+2024-08-24,google,organic,(organic),session_start,Google,Organic,8,8,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,session_start,Google,Paid,13,13,0,8/19/24
+2024-08-24,(direct),(none),(direct),user_engagement,Direct,Organic,,3,0,8/19/24
+2024-08-24,google,cpc,(organic),user_engagement,Google,Paid,,6,0,8/19/24
+2024-08-24,bing,organic,(organic),user_engagement,Bing,Organic,,1,0,8/19/24
+2024-08-24,google,organic,(organic),user_engagement,Google,Organic,,2,0,8/19/24
+2024-08-24,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,2,0,8/19/24
+2024-08-25,(direct),(none),(direct),click,Direct,Organic,,1,0,8/19/24
+2024-08-25,google,organic,(organic),click,Google,Organic,,1,0,8/19/24
+2024-08-25,(direct),(none),(direct),click_to_call_website,Direct,Organic,,1,0,8/19/24
+2024-08-25,(direct),(none),(direct),first_visit,Direct,Organic,,11,0,8/19/24
+2024-08-25,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,(organic),first_visit,Google,Paid,,4,0,8/19/24
+2024-08-25,google,organic,(organic),first_visit,Google,Organic,,4,0,8/19/24
+2024-08-25,google,cpc,(referral),first_visit,Google,Paid,,3,0,8/19/24
+2024-08-25,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,9,0,8/19/24
+2024-08-25,(direct),(none),(direct),form_start,Direct,Organic,,2,0,8/19/24
+2024-08-25,google,organic,(organic),form_start,Google,Organic,,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,form_start,Google,Paid,,1,0,8/19/24
+2024-08-25,(direct),(none),(direct),page_view,Direct,Organic,,21,0,8/19/24
+2024-08-25,google,cpc,(not set),page_view,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,(organic),page_view,Google,Paid,,4,0,8/19/24
+2024-08-25,google,organic,(organic),page_view,Google,Organic,,9,0,8/19/24
+2024-08-25,google,cpc,(referral),page_view,Google,Paid,,3,0,8/19/24
+2024-08-25,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,page_view,Google,Paid,,10,0,8/19/24
+2024-08-25,(direct),(none),(direct),scroll,Direct,Organic,,4,0,8/19/24
+2024-08-25,google,cpc,(organic),scroll,Google,Paid,,1,0,8/19/24
+2024-08-25,google,organic,(organic),scroll,Google,Organic,,5,0,8/19/24
+2024-08-25,google,cpc,(referral),scroll,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,scroll,Google,Paid,,2,0,8/19/24
+2024-08-25,(direct),(none),(direct),session_start,Direct,Organic,14,14,0,8/19/24
+2024-08-25,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/19/24
+2024-08-25,google,cpc,(organic),session_start,Google,Paid,4,4,0,8/19/24
+2024-08-25,google,organic,(organic),session_start,Google,Organic,5,5,0,8/19/24
+2024-08-25,google,cpc,(referral),session_start,Google,Paid,3,3,0,8/19/24
+2024-08-25,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,session_start,Google,Paid,10,10,0,8/19/24
+2024-08-25,(direct),(none),(direct),user_engagement,Direct,Organic,,7,0,8/19/24
+2024-08-25,google,cpc,(organic),user_engagement,Google,Paid,,3,0,8/19/24
+2024-08-25,google,organic,(organic),user_engagement,Google,Organic,,6,0,8/19/24
+2024-08-25,google,cpc,DF - Brand,user_engagement,Google,Paid,,1,0,8/19/24
+2024-08-25,google,cpc,DF - Leads - Search,user_engagement,Google,Paid,,6,0,8/19/24
+2024-08-26,(direct),(none),(direct),first_visit,Direct,Organic,,14,0,8/26/24
+2024-08-26,google,cpc,(not set),first_visit,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,(organic),first_visit,Google,Paid,,2,0,8/26/24
+2024-08-26,bing,organic,(organic),first_visit,Bing,Organic,,2,0,8/26/24
+2024-08-26,google,organic,(organic),first_visit,Google,Organic,,4,0,8/26/24
+2024-08-26,google,cpc,DF - Brand,first_visit,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Call Only,first_visit,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Search,first_visit,Google,Paid,,1,0,8/26/24
+2024-08-26,(direct),(none),(direct),page_view,Direct,Organic,,19,0,8/26/24
+2024-08-26,(not set),(not set),(not set),page_view,Other,Paid,,2,0,8/26/24
+2024-08-26,google,cpc,(not set),page_view,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,(organic),page_view,Google,Paid,,2,0,8/26/24
+2024-08-26,bing,organic,(organic),page_view,Bing,Organic,,3,0,8/26/24
+2024-08-26,google,organic,(organic),page_view,Google,Organic,,7,0,8/26/24
+2024-08-26,google,cpc,DF - Brand,page_view,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Call Only,page_view,Google,Paid,,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Search,page_view,Google,Paid,,1,0,8/26/24
+2024-08-26,(direct),(none),(direct),scroll,Direct,Organic,,1,0,8/26/24
+2024-08-26,(direct),(none),(direct),session_start,Direct,Organic,16,16,0,8/26/24
+2024-08-26,google,cpc,(not set),session_start,Google,Paid,1,1,0,8/26/24
+2024-08-26,google,cpc,(organic),session_start,Google,Paid,2,2,0,8/26/24
+2024-08-26,bing,organic,(organic),session_start,Bing,Organic,2,2,0,8/26/24
+2024-08-26,google,organic,(organic),session_start,Google,Organic,6,6,0,8/26/24
+2024-08-26,google,cpc,DF - Brand,session_start,Google,Paid,1,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Call Only,session_start,Google,Paid,1,1,0,8/26/24
+2024-08-26,google,cpc,DF - Leads - Search,session_start,Google,Paid,1,1,0,8/26/24
+2024-08-26,(direct),(none),(direct),user_engagement,Direct,Organic,,3,0,8/26/24
+2024-08-26,(not set),(not set),(not set),user_engagement,Other,Paid,,3,0,8/26/24
