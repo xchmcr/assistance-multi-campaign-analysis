@@ -4,6 +4,15 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.linear_model import Ridge
+from sklearn.preprocessing import PolynomialFeatures, StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+from xgboost import XGBRegressor
+
 
 def load_dataset1():
     file_url = 'https://raw.githubusercontent.com/xchmcr/assistance-multi-campaign-analysis-repo/workingbranch/sample_data-data.csv'
@@ -182,8 +191,75 @@ def main():
 
     # Sidebar for user input
     st.sidebar.header("User Input")
-    selected_dataset = st.sidebar.radio("Select Dataset", ["Data", "GA data", "Radio data", "CRM data"])
-    
+    selected_dataset = st.sidebar.radio("Select Dataset", ["Data", "GA data", "Radio data", "CRM data", "Radio Data Model Insights"])
+
+    if selected_dataset == "Radio Data Model Insights":
+        st.subheader("Radio Data Model Insights")
+
+    # Load the Radio data
+        df_radio = load_dataset3()
+
+    # Clean and preprocess the data (already given in previous responses)
+        df_radio['$ SPENT'] = df_radio['$ SPENT'].replace('[\$,]', '', regex=True).astype(float)
+
+    # Feature engineering, model training, and evaluation (based on your Ridge & XGBoost models)
+    # Define target variable
+        target = '$ SPENT'
+        features = ['Ord Spots', 'Spots Ran', 'UNQ >= :01']
+
+        X = df_radio[features]
+        y = df_radio[target]
+
+    # Train-test split
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # Standardize the features
+        scaler = StandardScaler()
+        X_train_scaled = scaler.fit_transform(X_train)
+        X_test_scaled = scaler.transform(X_test)
+
+    # Ridge Regression model
+        ridge = Ridge(alpha=1.0)
+        ridge.fit(X_train_scaled, y_train)
+        y_pred_ridge = ridge.predict(X_test_scaled)
+
+    # XGBoost model
+        xgb = XGBRegressor(n_estimators=100, learning_rate=0.1, random_state=42)
+        xgb.fit(X_train_scaled, y_train)
+        y_pred_xgb = xgb.predict(X_test_scaled)
+
+    # Calculate performance metrics
+        ridge_mse = mean_squared_error(y_test, y_pred_ridge)
+        ridge_r2 = r2_score(y_test, y_pred_ridge)
+        xgb_mse = mean_squared_error(y_test, y_pred_xgb)
+        xgb_r2 = r2_score(y_test, y_pred_xgb)
+
+    # Display model performance
+        st.write(f"**Ridge Regression MSE:** {ridge_mse:.2f}")
+        st.write(f"**Ridge Regression R2 Score:** {ridge_r2:.2f}")
+        st.write(f"**XGBoost MSE:** {xgb_mse:.2f}")
+        st.write(f"**XGBoost R2 Score:** {xgb_r2:.2f}")
+
+    # Feature importance from XGBoost
+        st.subheader("XGBoost Feature Importance")
+        feature_importance = xgb.feature_importances_
+        importance_df = pd.DataFrame({
+            'Feature': features,
+            'Importance': feature_importance
+        }).sort_values(by='Importance', ascending=False)
+
+        fig, ax = plt.subplots()
+        sns.barplot(x='Importance', y='Feature', data=importance_df, ax=ax)
+        st.pyplot(fig)
+
+    # Most efficient combinations
+        st.subheader("Most Efficient Combinations")
+        efficient_combinations = df_radio[['Station', '$ SPENT']].copy()
+        efficient_combinations['Predicted Spend (Ridge)'] = ridge.predict(scaler.transform(df_radio[features]))
+        efficient_combinations['Predicted Spend (XGBoost)'] = xgb.predict(scaler.transform(df_radio[features]))
+        st.write(efficient_combinations)
+        
+
     if selected_dataset == "Data":
         df = df1
         date_column = 'Week'
