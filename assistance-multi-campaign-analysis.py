@@ -6,6 +6,7 @@ from plotly.subplots import make_subplots
 from datetime import datetime
 import numpy as np
 import seaborn as sns
+import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import PolynomialFeatures, StandardScaler
